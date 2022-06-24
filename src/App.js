@@ -6,9 +6,9 @@ function App() {
   return (
     <div>
 
-      <NavBar name='eCommerce' />
+      <NavBar name='Sunride' desc='BIKE SHOP'  btn2='Crear cuenta'/>
 
-      <ItemListContainer mensaje='Bienvenido a eCommerce' />
+      <ItemListContainer mensaje='Bienvenido a Sunride' />
 
     </div>
   );
