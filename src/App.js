@@ -7,7 +7,7 @@ function App() {
 	return (
 		<>
 			<NavBar name='Sunride' desc='BIKE SHOP' btn2='Crear cuenta' />
-			<ItemListContainer mensaje='Bienvenido a Sunride' />
+			<ItemListContainer mensaje='Productos destacados Sunride' />
 		</>
 	);
 }
