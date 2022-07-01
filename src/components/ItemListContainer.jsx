@@ -6,12 +6,10 @@ import RiseLoader from "react-spinners/RiseLoader";
 const spinner = () => {
 	return (
 		<div className="mt-40 text-center">
-			<RiseLoader color='#FBCB14' />
+			<RiseLoader color='#FBCB14' size={40}  />
 		</div>
 	)
 }
-
-// https://62be3b99be8ba3a10d4fc3ef.mockapi.io/api/v1/products
 
 const ItemListContainer = ({ mensaje }) => {
 
