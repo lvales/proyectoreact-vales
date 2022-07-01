@@ -17,13 +17,24 @@ const item = ({ producto }) => {
                   className="w-full h-full object-center object-cover "
                />
             </div>
-            <div className="flex w-3/4 flex-col px-10 py-4">
+
+            <div className="flex flex-col w-3/4 px-10 py-4 align-bottom">
                <h3 className="mt-4 text-sm text-gray-700">{producto.title}</h3>
-               <p className="mt-3 line-through text-gray-400 text-right">$ { formatNumber(producto.price * 1.2) }</p>
-               <p className="mt-1 text-2xl text-gray-900  text-right">$ {formatNumber(producto.price)}</p>
+
+               <div className="flex items-center justify-center">
+                  <div className="mr-3">
+                     <p className="mt-1 line-through text-gray-400 text-right">$ {formatNumber(producto.price * 1.2)}</p>
+                     <p className="mt-1 text-xl text-gray-900 text-right">$ {formatNumber(producto.price)}</p>
+                  </div>
+                  <div>
+                     <p className="mt-1 text-sm text-slate-700">Stock disponible: {producto.available_quantity}</p>
+                     <p className="mt-3 font-medium text-green-600">en {producto.installments.quantity} x ${formatNumber(producto.installments.amount)} sin interés</p>
+                  </div>
+               </div>
+
                <button className="mt-5 px-3 py-2 border border-yellow-400 rounded-lg text-md font-medium 
                   text-slate-800 bg-yellow-400 hover:bg-stone-300 hover:border-stone-300">
-                  Detalle
+                  Ver Detalle
                </button>
             </div>
          </a>
