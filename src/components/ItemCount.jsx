@@ -19,10 +19,9 @@ const ItemCount = ({ stock, initial }) => {
 	const onAdd = () => alert('Producto agregado al carrito')
 
 	return (
-		<div className="bg-slate-100 w-1/6 rounded-lg">
-			<div className="p-5">
-				<p className="text-lg font-medium">Bicicleta Olmo</p>
-				<p className="text-sm">Stock: {stock}</p>
+		<>
+			<div className="p-1">
+				<p>Cantidad:</p>
 				<div className="flex px-3 my-3 p-1 justify-between items-center border rounded-md bg-white">
 					<div>
 						<button className="text-2xl font-semibold text-sky-600"
@@ -40,17 +39,17 @@ const ItemCount = ({ stock, initial }) => {
 						</button>
 					</div>
 				</div>
-				<div className="flex flex-row justify-between">
-					<button className="py-2 px-4 bg-red-500 rounded-bl-xl text-slate-50 font-medium"
+				<div className="flex flex-col gap-2">
+					<button className="bg-blue-600 text-white text-xl p-3 rounded-lg hover:bg-blue-500">
+						Comprar ahora
+					</button>
+					<button className="bg-blue-300 text-white text-xl p-3 rounded-lg hover:bg-blue-200"
 						onClick={onAdd}>
 						Agregar al carrito
 					</button>
-					<button className="py-2 px-4 bg-slate-500 rounded-br-xl text-slate-50 font-medium">
-						Ver carrito
-					</button>
 				</div>
 			</div>
-		</div>
+		</>
 	)
 }
 

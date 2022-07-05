@@ -11,16 +11,16 @@ const spinner = () => {
 	)
 }
 
-const ItemListContainer = ({ mensaje }) => {
+const ItemListContainer = ({ mensage }) => {
 
-	const [productos, setProductos] = useState();
+	const [items, setItems] = useState();
 
 	const fetchApi = () => {
 		fetch('https://api.mercadolibre.com/sites/MLA/search?q=bicicleta')
 			.then(res => res.json())
 			.then(json => {
-				setProductos(json);
-			})
+				setItems(json);})
+			.catch(err => console.log(err))
 	}
 
 	useEffect(() => {
@@ -29,10 +29,10 @@ const ItemListContainer = ({ mensaje }) => {
 
 	return (
 		<>
-			<p className="text-3xl text-center mt-10 font-semibold">{mensaje}</p>
-			<div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-				{!productos ? spinner() :
-					<ItemList productos={productos} />
+			<p className="text-3xl text-center mt-10 font-semibold">{mensage}</p>
+			<div className="max-w-2xl mx-auto px-4 my-20 sm:px-6 lg:max-w-7xl lg:px-8">
+				{!items ? spinner() :
+					<ItemList items={items} />
 				}
 			</div>
 		</>
