@@ -1,6 +1,7 @@
 import ItemDetail from "./ItemDetail";
 import { useEffect, useState } from "react";
 import { RiseLoader } from "react-spinners";
+import { useParams } from "react-router-dom";
 
 const spinner = () => {
 	return (
@@ -13,10 +14,13 @@ const spinner = () => {
 
 const ItemDetailContainer = () => {
 
+	const {itemId} = useParams();
 	const [item, setItem] = useState();
 
+	const URL = `https://api.mercadolibre.com/items/${itemId}`;
+
 	const fetchApi = () => {
-		fetch('https://api.mercadolibre.com/items/MLA1122975580')
+		fetch(URL)
 			.then(res => res.json())
 			.then(json => {
 				setItem(json);})
@@ -24,12 +28,13 @@ const ItemDetailContainer = () => {
 	}
 
 	useEffect(() => {
+		console.log(itemId);
 		fetchApi();
-	}, []);
+	}, [itemId]);
 
 	return (
 		<>
-			<div className="max-w-2xl mx-auto px-4 pt sm:px-6 lg:max-w-7xl lg:px-8">
+			<div className="max-w-2xl my-10 mx-auto px-4 pt sm:px-6 lg:max-w-7xl lg:px-8">
 				{!item ? spinner() :
 					<ItemDetail item={item}/>
 				}

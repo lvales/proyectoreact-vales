@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 const formatNumber = (number) => {
    return (
@@ -33,10 +34,10 @@ const item = ({ item }) => {
                   </div>
                </div>
 
-               <button className="mt-5 px-3 py-2 border border-yellow-400 rounded-lg text-md font-medium 
-                  text-slate-800 bg-yellow-400 hover:bg-stone-300 hover:border-stone-300">
+               <Link to={"item/"+item.id} className="mt-5 px-3 py-2 border border-yellow-400 rounded-lg text-md font-medium 
+                  text-slate-800 bg-yellow-400 hover:bg-stone-300 hover:border-stone-300 text-center">
                   Ver Detalle
-               </button>
+               </Link>
             </div>
          </a>
       </div>

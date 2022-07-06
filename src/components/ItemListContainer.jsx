@@ -29,7 +29,7 @@ const ItemListContainer = ({ mensage }) => {
 
 	return (
 		<>
-			<p className="text-3xl text-center mt-10 font-semibold">{mensage}</p>
+			<p className="text-3xl text-center my-10 font-semibold">{mensage}</p>
 			<div className="max-w-2xl mx-auto px-4 my-20 sm:px-6 lg:max-w-7xl lg:px-8">
 				{!items ? spinner() :
 					<ItemList items={items} />

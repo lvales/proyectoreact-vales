@@ -20,7 +20,7 @@ const NavBar = ({ name,	desc }) => {
 					<BiUser className="text-2xl" />
 					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="">Ingresar</Link>
 					<Link className="text-slate-900 font-semibold hover:text-slate-400" to="">Registrarte</Link>
-					<Link to=""><CartWidget cantCart={0} /></Link>
+					<Link to="/cart"><CartWidget cantCart={0} /></Link>
 				</nav>
 			</div>
 		</div >
