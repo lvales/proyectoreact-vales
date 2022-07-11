@@ -1,13 +1,14 @@
 import CartWidget from "./CartWidget";
 import logo from '../assets/images/logo.png';
-import { BiUser } from "react-icons/bi";
 import { Link } from "react-router-dom";
+import { useState } from "react";
 
-const NavBar = ({ name,	desc }) => {
+const NavBar = ({ name, desc }) => {
+
 	return (
 		<div className="p-8 border-b shadow-sm">
 			<div className="container mx-auto flex justify-between items-center">
-				<Link to="/">
+				<Link to="/categories/bicicletas">
 					<div className="flex items-center gap-2">
 						<img width={70} src={logo} alt="Logo" />
 						<div className="flex flex-col">
@@ -17,9 +18,9 @@ const NavBar = ({ name,	desc }) => {
 					</div>
 				</Link>
 				<nav className="flex gap-2 items-center">
-					<BiUser className="text-2xl" />
-					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="">Ingresar</Link>
-					<Link className="text-slate-900 font-semibold hover:text-slate-400" to="">Registrarte</Link>
+					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/bicicletas">Bicicletas</Link>
+					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/accesoriosbicicleta">Accesorios</Link>
+					<Link className="text-slate-900 font-semibold hover:text-slate-400" to="">Contactanos</Link>
 					<Link to="/cart"><CartWidget cantCart={0} /></Link>
 				</nav>
 			</div>

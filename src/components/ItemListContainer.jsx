@@ -1,5 +1,6 @@
 import ItemList from "./ItemList";
 import { useEffect, useState } from "react"
+import { useParams } from "react-router-dom";
 import RiseLoader from "react-spinners/RiseLoader";
 
 
@@ -13,19 +14,19 @@ const spinner = () => {
 
 const ItemListContainer = ({ mensage }) => {
 
+	const {categories} = useParams();
 	const [items, setItems] = useState();
 
-	const fetchApi = () => {
-		fetch('https://api.mercadolibre.com/sites/MLA/search?q=bicicleta')
-			.then(res => res.json())
-			.then(json => {
-				setItems(json);})
-			.catch(err => console.log(err))
-	}
-
 	useEffect(() => {
+		const URL = `https://api.mercadolibre.com/sites/MLA/search?q=${categories ? categories : 'bicicletas'}`
+		const fetchApi = () => {
+			fetch(URL)
+				.then(res => res.json())
+				.then(json => { setItems(json) })
+				.catch(err => console.log(err))
+		}
 		fetchApi();
-	}, []);
+	}, [categories]);
 
 	return (
 		<>

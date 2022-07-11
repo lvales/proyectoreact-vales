@@ -17,18 +17,14 @@ const ItemDetailContainer = () => {
 	const {itemId} = useParams();
 	const [item, setItem] = useState();
 
-	const URL = `https://api.mercadolibre.com/items/${itemId}`;
-
-	const fetchApi = () => {
-		fetch(URL)
-			.then(res => res.json())
-			.then(json => {
-				setItem(json);})
-			.catch(err => console.log(err))
-	}
-
 	useEffect(() => {
-		console.log(itemId);
+		const URL = `https://api.mercadolibre.com/items/${itemId}`;
+		const fetchApi = () => {
+			fetch(URL)
+				.then(res => res.json())
+				.then(json => { setItem(json) })
+				.catch(err => console.log(err))
+		}
 		fetchApi();
 	}, [itemId]);
 

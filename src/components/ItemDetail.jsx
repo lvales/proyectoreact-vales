@@ -4,7 +4,6 @@ import { RiArrowGoBackFill } from "react-icons/ri";
 import { GoLocation } from "react-icons/go";
 import ItemCount from './ItemCount';
 
-
 const formatNumber = (number) => {
 	return (
 		new Intl.NumberFormat().format(Math.round(number))
@@ -15,7 +14,9 @@ const ItemDetail = ({ item }) => {
 	return (
 		<div className="flex flex-wrap border rounded-lg shadow-lg p-10 lg:justify-between gap-8">
 			<div className="mx-auto">
-				<img src={item.pictures[1].url} alt="Imagen" className="w-full" />
+
+				<img src={item.pictures[0].url} alt="Imagen" className="w-full" />
+
 				<hr className="mt-10" />
 				<p className="my-5 text-2xl">Características del producto</p>
 				<div className="flex gap-4">
@@ -52,8 +53,11 @@ const ItemDetail = ({ item }) => {
 							<div className="text-left text-sm text-slate-500 ml-1">{item.sold_quantity} Vendidos</div>
 						</div>
 						<p className="text-left text-xl font-medium mt-2">{item.title}</p>
+						{item.original_price ?
 						<div className="text-left text-xl font-thin line-through text-slate-500 mt-3 ">$ {formatNumber(item.original_price)}</div>
-						<div className="text-left text-4xl">$ {formatNumber(item.price)}</div>
+						: <div></div>
+						}
+						<div className="text-left text-4xl mt-2">$ {formatNumber(item.price)}</div>
 						<div className="py-0.5 px-1 text-xs text-white font-medium bg-blue-500 rounded w-fit mt-3">OFERTA DEL DÍA</div>
 						<div className="flex items-center mt-8">
 							<div className="text-green-500 text-2xl"><BsTruck /></div>
