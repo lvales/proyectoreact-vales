@@ -1,22 +1,20 @@
 import { useState } from "react";
 
-const ItemCount = ({ stock, initial }) => {
+const ItemCount = ({ stock, initial, onAdd }) => {
 
 	const [amount, setAmount] = useState(initial);
 
 	const add = () => {
-		if (amount < stock) {
-			setAmount(amount + 1);
-		}
+		(amount < stock) &&  setAmount(amount + 1);
 	}
-
+	
 	const rest = () => {
-		if (amount > 1) {
-			setAmount(amount - 1);
-		}
+		(amount > 1) && setAmount(amount - 1);
 	}
 
-	const onAdd = () => alert('Producto agregado al carrito')
+	const clickOnAdd = () => {
+		onAdd({amount});
+	}
 
 	return (
 		<>
@@ -40,11 +38,11 @@ const ItemCount = ({ stock, initial }) => {
 					</div>
 				</div>
 				<div className="flex flex-col gap-2">
-					<button className="bg-blue-600 text-white text-xl p-3 rounded-lg hover:bg-blue-500">
+					{/* <button className="bg-blue-600 text-white text-xl p-3 rounded-lg hover:bg-blue-500">
 						Comprar ahora
-					</button>
+					</button> */}
 					<button className="bg-blue-300 text-white text-xl p-3 rounded-lg hover:bg-blue-200"
-						onClick={onAdd}>
+						onClick={clickOnAdd}>
 						Agregar al carrito
 					</button>
 				</div>
