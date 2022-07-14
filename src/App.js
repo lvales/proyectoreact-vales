@@ -18,10 +18,9 @@ function App() {
 			<NavBar name='Sunride' desc='BIKE SHOP' />
 			<Routes>
 				<Route path='/' element={<ItemListContainer mensage='Productos destacados Sunride'/>} />
-				<Route path='/categories/:categories' element={<ItemListContainer mensage='Productos destacados Sunride'/>} />
-				<Route path='/cart' element={<Cart />} />
-				<Route path='/categories/:categories/item/:itemId' element={<ItemDetailContainer />} />
+				<Route path='/categories/:categoryName' element={<ItemListContainer mensage='Productos destacados Sunride'/>} />
 				<Route path='/item/:itemId' element={<ItemDetailContainer />} />
+				<Route path='/cart' element={<Cart />} />
 			</Routes>
 			<Footer />
 		</BrowserRouter>
