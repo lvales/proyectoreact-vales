@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 
+
 const formatNumber = (number) => {
    return (
       new Intl.NumberFormat().format(Math.round(number))
@@ -7,6 +8,7 @@ const formatNumber = (number) => {
 }
 
 const item = ({ item }) => {
+
    return (
       <div className="px-4 border rounded-lg shadow-sm">
          <div className="md:flex md:columns-2 group items-center">
@@ -34,7 +36,7 @@ const item = ({ item }) => {
                   </div>
                </div>
 
-               <Link to={"item/" + item.id} className="mt-5 px-3 py-2 border border-yellow-400 rounded-lg text-md font-medium 
+               <Link to={`item/${item.id}`} className="mt-5 px-3 py-2 border border-yellow-400 rounded-lg text-md font-medium 
                   text-slate-800 bg-yellow-400 hover:bg-stone-300 hover:border-stone-300 text-center">
                   Ver Detalle
                </Link>

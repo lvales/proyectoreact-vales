@@ -1,9 +1,10 @@
-
+import { useContext } from "react";
+import { useState } from "react";
+import { cartContext } from "../context/CartContext";
 import { BsTruck } from "react-icons/bs";
 import { RiArrowGoBackFill } from "react-icons/ri";
 import { GoLocation } from "react-icons/go";
 import ItemCount from './ItemCount';
-import { useState } from "react";
 import { Link } from "react-router-dom";
 
 const formatNumber = (number) => {
@@ -12,12 +13,15 @@ const formatNumber = (number) => {
 	)
 }
 
-
 const ItemDetail = ({ item }) => {
 
 	const [amount, setAmount] = useState(0);
+	const {addItem} = useContext(cartContext);
 
-	const onAdd = (amount) => setAmount(amount);
+	const onAdd = (amount) => {
+		setAmount(amount)
+		addItem({...item, qty: amount});
+	};
 
 	return (
 		<div className="flex flex-wrap border rounded-lg shadow-lg p-10 lg:justify-between gap-8">

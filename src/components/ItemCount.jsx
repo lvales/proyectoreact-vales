@@ -13,7 +13,7 @@ const ItemCount = ({ stock, initial, onAdd }) => {
 	}
 
 	const clickOnAdd = () => {
-		onAdd({amount});
+		onAdd(amount);
 	}
 
 	return (
