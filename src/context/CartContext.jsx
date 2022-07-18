@@ -20,9 +20,8 @@ const CartProvider = ({ children }) => {
          aux[index].qty += item.qty;
          setProducts(aux);
       }else{
-         setProducts ([...products, item])
+         setProducts ([...products, item]);
       }
-
    }
 
    const removeItem = (id) => {

@@ -14,11 +14,11 @@ const spinner = () => {
 
 const ItemListContainer = ({ mensage }) => {
 
-	const {categories} = useParams();
+	const {categoryName} = useParams();
 	const [items, setItems] = useState();
 
 	useEffect(() => {
-		const URL = `https://api.mercadolibre.com/sites/MLA/search?q=${categories ? categories : 'bicicletas'}`
+		const URL = `https://api.mercadolibre.com/sites/MLA/search?q=${categoryName ? categoryName : 'bicicletas'}`
 		const fetchApi = () => {
 			fetch(URL)
 				.then(res => res.json())
@@ -26,7 +26,7 @@ const ItemListContainer = ({ mensage }) => {
 				.catch(err => console.log(err))
 		}
 		fetchApi();
-	}, [categories]);
+	}, [categoryName]);
 
 	return (
 		<>
