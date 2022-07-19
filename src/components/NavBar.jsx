@@ -20,7 +20,7 @@ const NavBar = ({ name, desc }) => {
 					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/bicicletas">Bicicletas</Link>
 					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/accesoriosbicicleta">Accesorios</Link>
 					<Link className="text-slate-900 font-semibold hover:text-slate-400" to="">Contactanos</Link>
-					<Link to="/cart"><CartWidget cantCart={0} /></Link>
+					<Link to="/cart"><CartWidget /></Link>
 				</nav>
 			</div>
 		</div >

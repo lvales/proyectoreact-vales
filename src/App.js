@@ -22,6 +22,7 @@ function App() {
 					<Route path='/' element={<ItemListContainer mensage='Productos destacados Sunride' />} />
 					<Route path='/categories/:categoryName' element={<ItemListContainer mensage='Productos destacados Sunride' />} />
 					<Route path='/categories/:categoryName/item/:itemId' element={<ItemDetailContainer />} />
+					<Route path='/item/:itemId' element={<ItemDetailContainer />} />
 					<Route path='/cart' element={<Cart />} />
 				</Routes>
 				<Footer />

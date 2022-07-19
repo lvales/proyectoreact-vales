@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import {createContext} from 'react'
 
 export const cartContext = createContext();
@@ -7,10 +7,20 @@ const {Provider} = cartContext;
 const CartProvider = ({ children }) => {
 
    const[products, setProducts] = useState([]);
+   const[qtyProducts, setQtyProducts] = useState(0);
+   
 
-   const getQtyProducts = () => {
-      // TODO
-   }
+   useEffect(() => {
+      const getQtyProducts = () => {
+         let qty = 0;
+         products.forEach(product => {
+            qty += product.qty
+         });
+         setQtyProducts(qty);
+      }
+      getQtyProducts();
+   }, [products])
+   
 
    const addItem = (item) => {
       if (isinProducts(item.id)){
@@ -30,6 +40,7 @@ const CartProvider = ({ children }) => {
 
    const clearItem  = (item) => {
       setProducts([]);
+      setQtyProducts(0);
    }
 
    const isinProducts = (id) => {
@@ -37,7 +48,7 @@ const CartProvider = ({ children }) => {
    }
 
   return (
-    <Provider value={{addItem, removeItem, clearItem}}>
+    <Provider value={{addItem, removeItem, clearItem, qtyProducts}}>
       { children }
     </Provider>
   )

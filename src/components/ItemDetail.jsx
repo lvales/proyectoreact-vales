@@ -1,6 +1,6 @@
 import { useContext } from "react";
-import { useState } from "react";
 import { cartContext } from "../context/CartContext";
+import { useState } from "react";
 import { BsTruck } from "react-icons/bs";
 import { RiArrowGoBackFill } from "react-icons/ri";
 import { GoLocation } from "react-icons/go";
