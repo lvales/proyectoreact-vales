@@ -7,11 +7,8 @@ import { GoLocation } from "react-icons/go";
 import ItemCount from './ItemCount';
 import { Link } from "react-router-dom";
 
-const formatNumber = (number) => {
-	return (
-		new Intl.NumberFormat().format(Math.round(number))
-	)
-}
+const formatNumber = (number) => new Intl.NumberFormat().format(Math.round(number))
+	
 
 const ItemDetail = ({ item }) => {
 
@@ -91,8 +88,16 @@ const ItemDetail = ({ item }) => {
 									to='/cart'>
 									Finalizar compra
 								</Link>
+								<Link className=" mt-3 bg-blue-300 text-white text-xl p-3 rounded-lg hover:bg-blue-500"
+									to='/'>
+									Continuar comprando
+								</Link>
 							</div>
 						}
+						<div className="flex border rounded-md shadow p-5 mt-3 gap-5 items-center">
+							<div className="text-green-500 text-sm p-2 border border-green-500 rounded-full"><BsTruck /></div>
+							<div className="w-5/6 text-xs">Armá un carrito de productos del mismo vendedor y ahorrá en el envío.</div>
+						</div>
 					</div>
 				</div>
 

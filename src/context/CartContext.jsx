@@ -1,57 +1,58 @@
 import { useEffect, useState } from 'react';
-import {createContext} from 'react'
+import { createContext } from 'react'
 
 export const cartContext = createContext();
-const {Provider} = cartContext;
+const { Provider } = cartContext;
 
 const CartProvider = ({ children }) => {
 
-   const[products, setProducts] = useState([]);
-   const[qtyProducts, setQtyProducts] = useState(0);
-   
+	const [products, setProducts] = useState([]);
+	const [qtyProducts, setQtyProducts] = useState(0);
 
-   useEffect(() => {
-      const getQtyProducts = () => {
-         let qty = 0;
-         products.forEach(product => {
-            qty += product.qty
-         });
-         setQtyProducts(qty);
-      }
-      getQtyProducts();
-   }, [products])
-   
 
-   const addItem = (item) => {
-      if (isinProducts(item.id)){
-         const found = products.find(e => e.id === item.id)
-         const index = products.indexOf(found);
-         const aux = [...products];
-         aux[index].qty += item.qty;
-         setProducts(aux);
-      }else{
-         setProducts ([...products, item]);
-      }
-   }
+	useEffect(() => {
+		const getQtyProducts = () => {
+			let qty = 0;
+			products.forEach(product => {
+				qty += product.qty
+			});
+			setQtyProducts(qty);
+		}
+		getQtyProducts();
+	}, [products])
 
-   const removeItem = (id) => {
-      setProducts(products.filter(e => e.id !== id))
-   }
 
-   const clearItem  = (item) => {
-      setProducts([]);
-      setQtyProducts(0);
-   }
+	const addItem = (item) => {
+		if (isinProducts(item.id)) {
+			const found = products.find(e => e.id === item.id)
+			const index = products.indexOf(found);
+			const aux = [...products];
+			aux[index].qty += item.qty;
+			setProducts(aux);
+		} else {
+			setProducts([...products, item]);
+		}
+	}
 
-   const isinProducts = (id) => {
-      return products.some(e => e.id === id);
-   }
+	const removeItem = (id) => {
+		setProducts(products.filter(e => e.id !== id));
+		console.log(products);
+	}
 
-  return (
-    <Provider value={{addItem, removeItem, clearItem, qtyProducts}}>
-      { children }
-    </Provider>
-  )
+	const clearItem = (item) => {
+		setProducts([]);
+		setQtyProducts(0);
+	}
+
+	const isinProducts = (id) => {
+		return products.some(e => e.id === id);
+	}
+
+	return (
+		<Provider value={{ products, addItem, removeItem, clearItem, qtyProducts }}>
+			{children}
+		</Provider>
+	)
 }
 
 export default CartProvider

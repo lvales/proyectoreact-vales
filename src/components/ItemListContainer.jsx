@@ -18,7 +18,7 @@ const ItemListContainer = ({ mensage }) => {
 	const [items, setItems] = useState();
 
 	useEffect(() => {
-		const URL = `https://api.mercadolibre.com/sites/MLA/search?q=${categoryName ? categoryName : 'bicicletas'}`
+		const URL = `https://api.mercadolibre.com/sites/MLA/search?q=${categoryName ? categoryName : 'golden-bike'}`
 		const fetchApi = () => {
 			fetch(URL)
 				.then(res => res.json())
