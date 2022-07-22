@@ -9,15 +9,7 @@ const formatNumber = (number) => new Intl.NumberFormat().format(Math.round(numbe
 
 const Cart = () => {
 
-	const { products, removeItem } = useContext(cartContext);
-
-	const addTotal = () => {
-		let total = 0;
-		products.forEach(product => {
-			total += product.price * product.qty
-		});
-		return total;
-	}
+	const { products, removeItem, total } = useContext(cartContext);
 
 	const clickRemove = (id) => {
 		removeItem(id)
@@ -25,8 +17,8 @@ const Cart = () => {
 
 	return (
 		<>
-			<div className="text-2xl mt-10 text-center">Carrito de compras</div>
-			<div className="container mx-auto mb-20 mt-10">
+			<div className="container mx-auto px-28 mb-20">
+				<div className="text-2xl mt-10 text-center">Carrito de compras</div>
 				{(products.length === 0) ?
 					<>
 						<div className="text-2xl mt-10 text-center">Ups... el carrito esta vacio, vuelve pronto</div>
@@ -34,7 +26,7 @@ const Cart = () => {
 					</>
 					:
 					products.map(product =>
-						<div key={product.id} className="flex border-b-2  mb-3 items-center justify-between px-20 gap-5">
+						<div key={product.id} className="flex border-b  mb-3 items-center justify-between gap-5">
 							<Link to={`/item/${product.id}`}><img className="w-20" src={product.thumbnail} alt="image_thumbnail" /></Link>
 							<Link to={`/item/${product.id}`} className="w-3/5 ml-3 text-md">{product.title}</Link>
 							<div className="w-1/5 ml-3 text-md text-center">Cantidad: {product.qty}</div>
@@ -44,9 +36,12 @@ const Cart = () => {
 					)
 				}
 				{((products.length !== 0)) ?
-					<div className="text-right text-xl font-medium px-20 mt-10">Total de la compra: $ {formatNumber(addTotal())}</div>
+					<div className="text-right text-xl font-medium  mt-10">Total de la compra: $ {formatNumber(total)}</div>
 					: null
 				}
+				<div className="text-right my-10 border-t">
+					<button className="bg-blue-600 text-white text-base py-2 px-8 rounded-md hover:bg-blue-500 mt-10">Continuar compra</button>
+				</div>
 			</div>
 		</>
 	)

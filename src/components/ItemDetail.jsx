@@ -3,34 +3,50 @@ import { cartContext } from "../context/CartContext";
 import { useState } from "react";
 import { BsTruck } from "react-icons/bs";
 import { RiArrowGoBackFill } from "react-icons/ri";
+import { MdOutlineArrowBackIosNew } from "react-icons/md";
+import { MdOutlineArrowForwardIos } from "react-icons/md";
 import { GoLocation } from "react-icons/go";
 import ItemCount from './ItemCount';
 import { Link } from "react-router-dom";
 
 const formatNumber = (number) => new Intl.NumberFormat().format(Math.round(number))
-	
+
 
 const ItemDetail = ({ item }) => {
 
+
 	const [amount, setAmount] = useState(0);
-	const {addItem} = useContext(cartContext);
+	const [index, setIndex] = useState(0);
+	const { addItem } = useContext(cartContext);
+
+	const nextClick = () => {
+		(index < item[0].pictures.length - 1) ? setIndex(index + 1) : setIndex(0);
+		console.log('+' + index);
+	}
+
+	const backClick = () => {
+		(index > 0) ? setIndex(index - 1) : setIndex(item[0].pictures.length - 1);
+		console.log('-' + index)
+	}
 
 	const onAdd = (amount) => {
 		setAmount(amount)
-		addItem({...item, qty: amount});
+		addItem({ ...item[0], qty: amount });
 	};
 
 	return (
 		<div className="flex flex-wrap border rounded-lg shadow-lg p-10 lg:justify-between gap-8">
 			<div className="mx-auto">
-
-				<img src={item.pictures[0].url} alt="Imagen" className="w-full" />
-
+				<div className="flex items-center">
+					<button className="text-2xl text-slate-300" onClick={backClick}><MdOutlineArrowBackIosNew /></button>
+					<img src={item[0].pictures[index].url} alt="Imagen" className="w-full" />
+					<button className="text-2xl text-slate-300" onClick={nextClick}><MdOutlineArrowForwardIos /></button>
+				</div>
 				<hr className="mt-10" />
 				<p className="my-5 text-2xl">Características del producto</p>
 				<div className="flex gap-4">
 					<div className="w-1/2">
-						{item.attributes.slice(0, 5).map((attribute, index) => {
+						{item[0].attributes.slice(0, 5).map((attribute, index) => {
 							return (
 								<div className="border rounded-lg mb-3" key={index}>
 									<p className="text-sm p-1 pl-3 bg-slate-200 rounded-t-md">{attribute.name}</p>
@@ -41,7 +57,7 @@ const ItemDetail = ({ item }) => {
 						}
 					</div>
 					<div className="w-1/2">
-						{item.attributes.slice(6, 11).map((attribute, index) => {
+						{item[0].attributes.slice(6, 11).map((attribute, index) => {
 							return (
 								<div className="border rounded-lg mb-3" key={index}>
 									<p className="text-sm p-1 pl-3 bg-slate-200 rounded-t-md">{attribute.name}</p>
@@ -58,15 +74,15 @@ const ItemDetail = ({ item }) => {
 				<div className="border rounded-lg mt-10 lg:mt-0 ">
 					<div className="p-5">
 						<div className="flex">
-							{(item.condition === 'new') ? <div className="text-left text-sm text-slate-500">Nuevo |</div> : <div className="text-left text-sm text-slate-500">Usado |</div>}
-							<div className="text-left text-sm text-slate-500 ml-1">{item.sold_quantity} Vendidos</div>
+							{(item[0].condition === 'new') ? <div className="text-left text-sm text-slate-500">Nuevo |</div> : <div className="text-left text-sm text-slate-500">Usado |</div>}
+							<div className="text-left text-sm text-slate-500 ml-1">{item[0].sold_quantity} Vendidos</div>
 						</div>
-						<p className="text-left text-xl font-medium mt-2">{item.title}</p>
-						{item.original_price ?
-							<div className="text-left text-xl font-thin line-through text-slate-500 mt-3 ">$ {formatNumber(item.original_price)}</div>
+						<p className="text-left text-xl font-medium mt-2">{item[0].title}</p>
+						{item[0].original_price ?
+							<div className="text-left text-xl font-thin line-through text-slate-500 mt-3 ">$ {formatNumber(item[0].original_price)}</div>
 							: <div></div>
 						}
-						<div className="text-left text-4xl mt-2">$ {formatNumber(item.price)}</div>
+						<div className="text-left text-4xl mt-2">$ {formatNumber(item[0].price)}</div>
 						<div className="py-0.5 px-1 text-xs text-white font-medium bg-blue-500 rounded w-fit mt-3">OFERTA DEL DÍA</div>
 						<div className="flex items-center mt-8">
 							<div className="text-green-500 text-2xl"><BsTruck /></div>
@@ -77,12 +93,12 @@ const ItemDetail = ({ item }) => {
 							<div className="ml-2 text-green-500 font-medium text-base">Devolución gratis</div>
 						</div>
 						<div className="ml-8 text-gray-500 text-xs">Tenés 30 días desde que lo recibís.</div>
-						<p className="mt-5 font-medium">Stock disponible: {item.available_quantity}</p>
+						<p className="mt-5 font-medium">Stock disponible: {item[0].available_quantity}</p>
 
 						{(amount === 0)
-							? 
-							<ItemCount stock={item.available_quantity} initial={1} onAdd={onAdd} />
-							: 
+							?
+							<ItemCount stock={item[0].available_quantity} initial={1} onAdd={onAdd} />
+							:
 							<div className="flex flex-col mt-6 text-center">
 								<Link className="bg-blue-600 text-white text-xl p-3 rounded-lg hover:bg-blue-500"
 									to='/cart'>
@@ -108,7 +124,7 @@ const ItemDetail = ({ item }) => {
 							<div><GoLocation /></div>
 							<div className="ml-2">Ubicación</div>
 						</div>
-						<div className="ml-6 text-sm text-slate-500">{item.seller_address.city.name} - {item.seller_address.state.name}</div>
+						<div className="ml-6 text-sm text-slate-500">{item[0].seller_address.city.name} - {item[0].seller_address.state.name}</div>
 					</div>
 				</div>
 			</div>

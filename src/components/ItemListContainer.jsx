@@ -2,30 +2,36 @@ import ItemList from "./ItemList";
 import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom";
 import RiseLoader from "react-spinners/RiseLoader";
+import { db } from "../firebase/firebase";
+import { getDocs, collection, query, where } from "firebase/firestore";
 
 
 const spinner = () => {
 	return (
 		<div className="mt-40 text-center">
-			<RiseLoader color='#FBCB14' size={40}  />
+			<RiseLoader color='#FBCB14' size={40} />
 		</div>
 	)
 }
 
 const ItemListContainer = ({ mensage }) => {
 
-	const {categoryName} = useParams();
+	const { categoryName } = useParams();
 	const [items, setItems] = useState();
 
+	const itemsCollection = collection(db, 'items')
+	const qry = (categoryName) ? query(itemsCollection, where('category_id', '==', categoryName)) : collection(db, 'items');
+	
 	useEffect(() => {
-		const URL = `https://api.mercadolibre.com/sites/MLA/search?q=${categoryName ? categoryName : 'golden-bike'}`
-		const fetchApi = () => {
-			fetch(URL)
-				.then(res => res.json())
-				.then(json => { setItems(json) })
-				.catch(err => console.log(err))
-		}
-		fetchApi();
+		getDocs(qry)
+			.then(result => {
+				const list = result.docs.map(doc => {
+					return {
+						...doc.data()
+					}
+				})
+				setItems(list);
+			});
 	}, [categoryName]);
 
 	return (

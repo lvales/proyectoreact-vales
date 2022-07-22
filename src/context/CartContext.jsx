@@ -8,7 +8,7 @@ const CartProvider = ({ children }) => {
 
 	const [products, setProducts] = useState([]);
 	const [qtyProducts, setQtyProducts] = useState(0);
-
+	const [total, setTotal] = useState(0);
 
 	useEffect(() => {
 		const getQtyProducts = () => {
@@ -18,7 +18,16 @@ const CartProvider = ({ children }) => {
 			});
 			setQtyProducts(qty);
 		}
+
+		const addTotal = () => {
+			let aux = 0;
+			products.forEach(product => {
+				aux += product.price * product.qty;
+			});
+			setTotal(aux);
+		}
 		getQtyProducts();
+		addTotal();
 	}, [products])
 
 
@@ -49,7 +58,7 @@ const CartProvider = ({ children }) => {
 	}
 
 	return (
-		<Provider value={{ products, addItem, removeItem, clearItem, qtyProducts }}>
+		<Provider value={{ products, addItem, removeItem, clearItem, qtyProducts, total }}>
 			{children}
 		</Provider>
 	)

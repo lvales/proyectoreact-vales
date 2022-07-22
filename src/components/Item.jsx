@@ -10,9 +10,9 @@ const item = ({ item }) => {
 			<div className="md:flex md:columns-2 group items-center">
 				<div className="w-40 aspect-w-1 aspect-h-1 overflow-hidden xl:aspect-w-7 xl:aspect-h-8 mx-auto">
 					<img
-						src={item.thumbnail}
+						src={item.pictures[0].url}
 						alt='Imagen'
-						className="w-full h-full object-center object-cover "
+						className="w-full h-full object-center object-cover"
 					/>
 				</div>
 
@@ -28,12 +28,12 @@ const item = ({ item }) => {
 						</div>
 						<div className="md:flex md:mt-2 md:items-end md:gap-3 md:justify-around">
 							<p className="text-xl text-gray-900">$ {formatNumber(item.price)}</p>
-							<p className="font-medium text-green-600">en {item.installments.quantity} x ${formatNumber(item.installments.amount)} sin interés</p>
+							<p className="font-medium text-green-600">en 12 x ${formatNumber(item.price/12)} sin interés</p>
 						</div>
 					</div>
 
-					<Link to={`item/${item.id}`} className="mt-5 px-3 py-2 border border-yellow-400 rounded-lg text-md font-medium 
-                  text-slate-800 bg-yellow-400 hover:bg-stone-300 hover:border-stone-300 text-center">
+					<Link to={`item/${item.id}`} className="mt-5 px-3 py-2 border border-blue-300 rounded-lg text-md font-medium 
+                  text-white bg-blue-300 hover:bg-blue-500 hover:border-blue-500 text-center">
 						Ver Detalle
 					</Link>
 				</div>

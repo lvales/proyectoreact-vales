@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import logo from '../assets/images/logo.png';
 
 const footer = () => {
@@ -10,13 +11,13 @@ const footer = () => {
 				</div>
 				<ul className="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
 					<li>
-						<a href="#" className="mr-4 hover:underline md:mr-6 ">Sobre Nodotros</a>
+						<Link to="#" className="mr-4 hover:underline md:mr-6 ">Sobre Nodotros</Link>
 					</li>
 					<li>
-						<a href="#" className="mr-4 hover:underline md:mr-6">Politica de privacidad</a>
+						<Link to="#" className="mr-4 hover:underline md:mr-6">Politica de privacidad</Link>
 					</li>
 					<li>
-						<a href="#" className="hover:underline">Contacto</a>
+						<Link to="/contactanos" className="hover:underline">Contacto</Link>
 					</li>
 				</ul>
 			</div>

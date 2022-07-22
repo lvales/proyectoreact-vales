@@ -17,9 +17,9 @@ const NavBar = ({ name, desc }) => {
 					</div>
 				</Link>
 				<nav className="flex gap-2 items-center">
-					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/bicicletas">Bicicletas</Link>
-					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/accesoriosbicicleta">Accesorios</Link>
-					<Link className="text-slate-900 font-semibold hover:text-slate-400" to="">Contactanos</Link>
+					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/MLA6143">Bicicletas</Link>
+					<Link className="text-slate-900 font-semibold hover:text-slate-400 mr-4" to="/categories/MLA371429">Accesorios</Link>
+					<Link className="text-slate-900 font-semibold hover:text-slate-400" to="/contactanos">Contactanos</Link>
 					<Link to="/cart"><CartWidget /></Link>
 				</nav>
 			</div>

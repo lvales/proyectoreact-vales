@@ -1,0 +1,5771 @@
+{
+"MLA1141313878":{
+  "id": "MLA1141313878",
+  "site_id": "MLA",
+  "title": "Bicicleta Silverfox Fm18si29am211  2021 M Frenos De Disco Mecánico Cambios 3 Velocidades Y 7 Velocidades Color Negro  ",
+  "subtitle": null,
+  "seller_id": 714046564,
+  "category_id": "MLA6143",
+  "official_store_id": null,
+  "price": 43900,
+  "base_price": 43900,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 94,
+  "available_quantity": 1,
+  "sold_quantity": 50,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "3 meses",
+      "value_struct": {
+        "number": 3,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "3 meses",
+          "struct": {
+            "number": 3,
+            "unit": "meses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "INVOICE",
+      "name": "Facturación",
+      "value_id": "6891885",
+      "value_name": "Factura A",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6891885",
+          "name": "Factura A",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2022-06-07T19:55:17.000Z",
+  "stop_time": "2042-06-02T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1141313878-bicicleta-silverfox-fm18si29am211-2021-m-frenos-de-disco-mecanico-cambios-3-velocidades-y-7-velocidades-color-negro-_JM",
+  "thumbnail_id": "841347-MLA50161341970_062022",
+  "thumbnail": "http://http2.mlstatic.com/D_841347-MLA50161341970_062022-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_841347-MLA50161341970_062022-I.jpg",
+  "pictures": [
+    {
+      "id": "841347-MLA50161341970_062022",
+      "url": "http://http2.mlstatic.com/D_841347-MLA50161341970_062022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_841347-MLA50161341970_062022-O.jpg",
+      "size": "500x279",
+      "max_size": "1065x596",
+      "quality": ""
+    },
+    {
+      "id": "669897-MLA50161396538_062022",
+      "url": "http://http2.mlstatic.com/D_669897-MLA50161396538_062022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_669897-MLA50161396538_062022-O.jpg",
+      "size": "383x500",
+      "max_size": "624x813",
+      "quality": ""
+    },
+    {
+      "id": "914037-MLA48377105596_112021",
+      "url": "http://http2.mlstatic.com/D_914037-MLA48377105596_112021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_914037-MLA48377105596_112021-O.jpg",
+      "size": "500x500",
+      "max_size": "554x554",
+      "quality": ""
+    },
+    {
+      "id": "870699-MLA48377062766_112021",
+      "url": "http://http2.mlstatic.com/D_870699-MLA48377062766_112021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_870699-MLA48377062766_112021-O.jpg",
+      "size": "500x486",
+      "max_size": "880x856",
+      "quality": ""
+    },
+    {
+      "id": "999949-MLA48377145475_112021",
+      "url": "http://http2.mlstatic.com/D_999949-MLA48377145475_112021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_999949-MLA48377145475_112021-O.jpg",
+      "size": "500x500",
+      "max_size": "554x554",
+      "quality": ""
+    },
+    {
+      "id": "994323-MLA48377145477_112021",
+      "url": "http://http2.mlstatic.com/D_994323-MLA48377145477_112021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_994323-MLA48377145477_112021-O.jpg",
+      "size": "500x500",
+      "max_size": "554x554",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in",
+      "mandatory_free_shipping"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": true,
+    "logistic_type": "xd_drop_off",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQlZJTDYzNzZa",
+      "name": "Villa Devoto"
+    },
+    "state": {
+      "id": "AR-C",
+      "name": "Capital Federal"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQlZJTDYzNzZa",
+        "name": "Villa Devoto"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGZlZG1sYQ",
+        "name": "Capital Federal"
+      },
+      "state": {
+        "id": "TUxBUENBUGw3M2E1",
+        "name": "Capital Federal"
+      }
+    },
+    "id": 1162674226
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "value_id": "6725189",
+      "value_name": "Adultos",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6725189",
+          "name": "Adultos",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "10445553",
+      "value_name": "Silverfox",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "10445553",
+          "name": "Silverfox",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "52049",
+      "value_name": "Negro",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "52049",
+          "name": "Negro",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "DETAILED_MODEL",
+      "name": "Modelo detallado",
+      "value_id": "11300551",
+      "value_name": "FM18SI29AM211",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11300551",
+          "name": "FM18SI29AM211",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRAME_SIZE",
+      "name": "Tamaño del cuadro",
+      "value_id": "454143",
+      "value_name": "M",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "454143",
+          "name": "M",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_BRAKE_TYPE",
+      "name": "Tipo de freno delantero",
+      "value_id": "8117600",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8117600",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_GEARS",
+      "name": "Cambios delanteros",
+      "value_id": "12258986",
+      "value_name": "3 Velocidades",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "12258986",
+          "name": "3 Velocidades",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GENDER",
+      "name": "Género",
+      "value_id": "110461",
+      "value_name": "Sin género",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "110461",
+          "name": "Sin género",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450295",
+      "value_name": "Negro",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2450295",
+          "name": "Negro",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "11300544",
+      "value_name": "FM18SI29AM211",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11300544",
+          "name": "FM18SI29AM211",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MPN",
+      "name": "MPN",
+      "value_id": "11300553",
+      "value_name": "07796962987833",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11300553",
+          "name": "07796962987833",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_BRAKE_TYPE",
+      "name": "Tipo de freno trasero",
+      "value_id": "6440294",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6440294",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_GEARS",
+      "name": "Cambios traseros",
+      "value_id": "12258985",
+      "value_name": "7 Velocidades",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "12258985",
+          "name": "7 Velocidades",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SPEEDS_NUMBER",
+      "name": "Cantidad de velocidades",
+      "value_id": "577735",
+      "value_name": "21",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "577735",
+          "name": "21",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": "1020558",
+      "value_name": "16 kg",
+      "value_struct": {
+        "number": 16,
+        "unit": "kg"
+      },
+      "values": [
+        {
+          "id": "1020558",
+          "name": "16 kg",
+          "struct": {
+            "number": 16,
+            "unit": "kg"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Rodado",
+      "value_id": "154748",
+      "value_name": "29",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "154748",
+          "name": "29",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_BASKET",
+      "name": "Con canasto",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_KICKSTAND",
+      "name": "Con pie de apoyo",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_TRAINING_WHEELS",
+      "name": "Con ruedas de entrenamiento",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "YEAR",
+      "name": "Año",
+      "value_id": "8239200",
+      "value_name": "2021",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8239200",
+          "name": "2021",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía de fábrica: 3 meses",
+  "catalog_product_id": "MLA18584975",
+  "domain_id": "MLA-BICYCLES",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2022-06-07T19:55:17.000Z",
+  "last_updated": "2022-07-21T04:05:01.000Z",
+  "health": null,
+  "catalog_listing": true,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA1140052246":{
+  "id": "MLA1140052246",
+  "site_id": "MLA",
+  "title": "Mountain Bike Fierce Fm18f29am210  2019 18 Frenos De Disco Mecánico Color Negro/celeste  ",
+  "subtitle": null,
+  "seller_id": 256189964,
+  "category_id": "MLA6143",
+  "official_store_id": 1372,
+  "price": 50499,
+  "base_price": 50499,
+  "original_price": 66999,
+  "currency_id": "ARS",
+  "initial_quantity": 1366,
+  "available_quantity": 100,
+  "sold_quantity": 500,
+  "sale_terms": [
+    {
+      "id": "PURCHASE_MAX_QUANTITY",
+      "name": "Cantidad máxima de compra",
+      "value_id": null,
+      "value_name": "1",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "1",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "12 meses",
+      "value_struct": {
+        "number": 12,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "12 meses",
+          "struct": {
+            "number": 12,
+            "unit": "meses"
+          }
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_pro",
+  "start_time": "2022-06-01T12:36:07.000Z",
+  "stop_time": "2042-06-11T18:35:44.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1140052246-mountain-bike-fierce-fm18f29am210-2019-18-frenos-de-disco-mecanico-color-negroceleste-_JM",
+  "thumbnail_id": "773536-MLA48483146366_122021",
+  "thumbnail": "http://http2.mlstatic.com/D_773536-MLA48483146366_122021-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_773536-MLA48483146366_122021-I.jpg",
+  "pictures": [
+    {
+      "id": "773536-MLA48483146366_122021",
+      "url": "http://http2.mlstatic.com/D_773536-MLA48483146366_122021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_773536-MLA48483146366_122021-O.jpg",
+      "size": "500x307",
+      "max_size": "1135x697",
+      "quality": ""
+    },
+    {
+      "id": "660185-MLA48483139546_122021",
+      "url": "http://http2.mlstatic.com/D_660185-MLA48483139546_122021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_660185-MLA48483139546_122021-O.jpg",
+      "size": "500x383",
+      "max_size": "1072x823",
+      "quality": ""
+    },
+    {
+      "id": "617080-MLA48483145540_122021",
+      "url": "http://http2.mlstatic.com/D_617080-MLA48483145540_122021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_617080-MLA48483145540_122021-O.jpg",
+      "size": "500x333",
+      "max_size": "1320x880",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_out",
+      "mandatory_free_shipping"
+    ],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": true,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "name": "Monte Chingolo"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQk1PTjg1OTJa",
+        "name": "Monte Chingolo"
+      },
+      "city": {
+        "id": "TUxBQ0xBTmJjYzE4",
+        "name": "Lanús"
+      },
+      "state": {
+        "id": "TUxBUEdSQXJlMDNm",
+        "name": "Bs.As. G.B.A. Sur"
+      }
+    },
+    "id": 929490970
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BICYCLE_FRAME_MATERIALS",
+      "name": "Materiales del cuadro de la bicicleta",
+      "value_id": "7126676",
+      "value_name": "Aluminio",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7126676",
+          "name": "Aluminio",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_TYPE",
+      "name": "Tipo de bicicleta",
+      "value_id": "240445",
+      "value_name": "Mountain bike",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "240445",
+          "name": "Mountain bike",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "11300545",
+      "value_name": "Fierce",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11300545",
+          "name": "Fierce",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "104622",
+      "value_name": "Negro/Celeste",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "104622",
+          "name": "Negro/Celeste",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRAME_SIZE",
+      "name": "Tamaño del cuadro",
+      "value_id": "11394596",
+      "value_name": "18",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11394596",
+          "name": "18",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_BRAKE_TYPE",
+      "name": "Tipo de freno delantero",
+      "value_id": "8117600",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8117600",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GENDER",
+      "name": "Género",
+      "value_id": "110461",
+      "value_name": "Sin género",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "110461",
+          "name": "Sin género",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GTIN",
+      "name": "Código universal de producto",
+      "value_id": null,
+      "value_name": "07796962983804",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "07796962983804",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "IS_FOLDABLE",
+      "name": "Es plegable",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450295",
+      "value_name": "Negro",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2450295",
+          "name": "Negro",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "11393324",
+      "value_name": "FM18F29AM210",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11393324",
+          "name": "FM18F29AM210",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_BRAKE_TYPE",
+      "name": "Tipo de freno trasero",
+      "value_id": "6440294",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6440294",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "94FM18F29AM210",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "94FM18F29AM210",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SPEEDS_NUMBER",
+      "name": "Cantidad de velocidades",
+      "value_id": "577735",
+      "value_name": "21",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "577735",
+          "name": "21",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SUSPENSION_TYPES",
+      "name": "Tipos de suspensión",
+      "value_id": "6130308",
+      "value_name": "Delantera",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6130308",
+          "name": "Delantera",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Rodado",
+      "value_id": "154748",
+      "value_name": "29",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "154748",
+          "name": "29",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_BASKET",
+      "name": "Con canasto",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_FENDERS",
+      "name": "Con guardabarros",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_KICKSTAND",
+      "name": "Con pie de apoyo",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_TRAINING_WHEELS",
+      "name": "Con ruedas de entrenamiento",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "YEAR",
+      "name": "Año",
+      "value_id": "5897388",
+      "value_name": "2019",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "5897388",
+          "name": "2019",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_thumbnail",
+    "deal_of_the_day",
+    "extended_warranty_eligible",
+    "good_quality_picture",
+    "immediate_payment"
+  ],
+  "warranty": "Garantía de fábrica: 12 meses",
+  "catalog_product_id": "MLA18622639",
+  "domain_id": "MLA-BICYCLES",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [
+    "MLA9368",
+    "MLA8258",
+    "MLA11902",
+    "MLA8176",
+    "MLA6015"
+  ],
+  "automatic_relist": false,
+  "date_created": "2022-06-01T12:36:08.000Z",
+  "last_updated": "2022-07-21T11:56:21.000Z",
+  "health": null,
+  "catalog_listing": true,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA1125102135":{
+  "id": "MLA1125102135",
+  "site_id": "MLA",
+  "title": "Mountain Bike Topmega Regal R29 M 21v Frenos De Disco Mecánico Cambios Sensah Mx7 Color Naranja  ",
+  "subtitle": null,
+  "seller_id": 174556876,
+  "category_id": "MLA6143",
+  "official_store_id": null,
+  "price": 58900,
+  "base_price": 58900,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 161,
+  "available_quantity": 50,
+  "sold_quantity": 50,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "6 meses",
+      "value_struct": {
+        "number": 6,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "6 meses",
+          "struct": {
+            "number": 6,
+            "unit": "meses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "INVOICE",
+      "name": "Facturación",
+      "value_id": "6891885",
+      "value_name": "Factura A",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6891885",
+          "name": "Factura A",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2022-02-25T19:11:23.000Z",
+  "stop_time": "2042-02-20T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1125102135-mountain-bike-topmega-regal-r29-m-21v-frenos-de-disco-mecanico-cambios-sensah-mx7-color-naranja-_JM",
+  "thumbnail_id": "844815-MLA49729511380_042022",
+  "thumbnail": "http://http2.mlstatic.com/D_844815-MLA49729511380_042022-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_844815-MLA49729511380_042022-I.jpg",
+  "pictures": [
+    {
+      "id": "844815-MLA49729511380_042022",
+      "url": "http://http2.mlstatic.com/D_844815-MLA49729511380_042022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_844815-MLA49729511380_042022-O.jpg",
+      "size": "500x362",
+      "max_size": "1092x792",
+      "quality": ""
+    },
+    {
+      "id": "684338-MLA44503977076_012021",
+      "url": "http://http2.mlstatic.com/D_684338-MLA44503977076_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_684338-MLA44503977076_012021-O.jpg",
+      "size": "500x376",
+      "max_size": "1320x994",
+      "quality": ""
+    },
+    {
+      "id": "803425-MLA44503466998_012021",
+      "url": "http://http2.mlstatic.com/D_803425-MLA44503466998_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_803425-MLA44503466998_012021-O.jpg",
+      "size": "500x351",
+      "max_size": "1321x929",
+      "quality": ""
+    },
+    {
+      "id": "857720-MLA44503599925_012021",
+      "url": "http://http2.mlstatic.com/D_857720-MLA44503599925_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_857720-MLA44503599925_012021-O.jpg",
+      "size": "500x380",
+      "max_size": "1320x1005",
+      "quality": ""
+    },
+    {
+      "id": "675304-MLA44503599926_012021",
+      "url": "http://http2.mlstatic.com/D_675304-MLA44503599926_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_675304-MLA44503599926_012021-O.jpg",
+      "size": "500x374",
+      "max_size": "1321x990",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in",
+      "mandatory_free_shipping"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": true,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQlZJTDQyMjBa",
+      "name": "Villa Crespo"
+    },
+    "state": {
+      "id": "AR-C",
+      "name": "Capital Federal"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQlZJTDQyMjBa",
+        "name": "Villa Crespo"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGZlZG1sYQ",
+        "name": "Capital Federal"
+      },
+      "state": {
+        "id": "TUxBUENBUGw3M2E1",
+        "name": "Capital Federal"
+      }
+    },
+    "id": 155782338
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "value_id": "6725189",
+      "value_name": "Adultos",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6725189",
+          "name": "Adultos",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_FRAME_MATERIALS",
+      "name": "Materiales del cuadro de la bicicleta",
+      "value_id": "7126676",
+      "value_name": "Aluminio",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7126676",
+          "name": "Aluminio",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_TYPE",
+      "name": "Tipo de bicicleta",
+      "value_id": "240445",
+      "value_name": "Mountain bike",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "240445",
+          "name": "Mountain bike",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "449706",
+      "value_name": "TopMega",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "449706",
+          "name": "TopMega",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "52000",
+      "value_name": "Naranja",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "52000",
+          "name": "Naranja",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "EXCLUSIVE_CHANNEL",
+      "name": "Canal exclusivo",
+      "value_id": "7865259",
+      "value_name": "Mercado Libre",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7865259",
+          "name": "Mercado Libre",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRAME_SIZE",
+      "name": "Tamaño del cuadro",
+      "value_id": "454143",
+      "value_name": "M",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "454143",
+          "name": "M",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_BRAKE_TYPE",
+      "name": "Tipo de freno delantero",
+      "value_id": "8117600",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8117600",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_GEARS",
+      "name": "Cambios delanteros",
+      "value_id": "11640169",
+      "value_name": "Sensah MX7",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11640169",
+          "name": "Sensah MX7",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450327",
+      "value_name": "Naranja",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2450327",
+          "name": "Naranja",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "67289",
+      "value_name": "Regal",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "67289",
+          "name": "Regal",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_BRAKE_TYPE",
+      "name": "Tipo de freno trasero",
+      "value_id": "6440294",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6440294",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_GEARS",
+      "name": "Cambios traseros",
+      "value_id": "11640168",
+      "value_name": "Sensah MX7",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11640168",
+          "name": "Sensah MX7",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REFLECTORS_POSITIONS",
+      "name": "Posiciones de los reflectores",
+      "value_id": "8161511",
+      "value_name": "Pedales",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8161511",
+          "name": "Pedales",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "RIM_TYPE",
+      "name": "Tipo de llanta",
+      "value_id": "6816752",
+      "value_name": "Doble pared",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6816752",
+          "name": "Doble pared",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "5900002.04",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "5900002.04",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SPEEDS_NUMBER",
+      "name": "Cantidad de velocidades",
+      "value_id": "577735",
+      "value_name": "21",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "577735",
+          "name": "21",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SUSPENSION_TYPES",
+      "name": "Tipos de suspensión",
+      "value_id": "6130308",
+      "value_name": "Delantera",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6130308",
+          "name": "Delantera",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Rodado",
+      "value_id": "154748",
+      "value_name": "29",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "154748",
+          "name": "29",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "loyalty_discount_eligible",
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía de fábrica: 6 meses",
+  "catalog_product_id": "MLA16224851",
+  "domain_id": "MLA-BICYCLES",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2022-02-25T19:11:23.000Z",
+  "last_updated": "2022-07-21T13:58:35.000Z",
+  "health": null,
+  "catalog_listing": true,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA1131791547":{
+  "id": "MLA1131791547",
+  "site_id": "MLA",
+  "title": "Bicicleta Plegable Fire Bird   R20 6v Frenos V-brakes Cambios Shimano Tourney Tz400 Y Shimano Tz20 Color Negro Con Pie De Apoyo  ",
+  "subtitle": null,
+  "seller_id": 208219459,
+  "category_id": "MLA6143",
+  "official_store_id": null,
+  "price": 50935.5,
+  "base_price": 50935.5,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 113,
+  "available_quantity": 1,
+  "sold_quantity": 50,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "INVOICE",
+      "name": "Facturación",
+      "value_id": "6891885",
+      "value_name": "Factura A",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6891885",
+          "name": "Factura A",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "PURCHASE_MAX_QUANTITY",
+      "name": "Cantidad máxima de compra",
+      "value_id": null,
+      "value_name": "1",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "1",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "3 meses",
+      "value_struct": {
+        "number": 3,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "3 meses",
+          "struct": {
+            "number": 3,
+            "unit": "meses"
+          }
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2022-04-12T15:12:53.000Z",
+  "stop_time": "2042-04-07T15:51:07.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1131791547-bicicleta-plegable-fire-bird-r20-6v-frenos-v-brakes-cambios-shimano-tourney-tz400-y-shimano-tz20-color-negro-con-pie-de-apoyo-_JM",
+  "thumbnail_id": "771077-MLA48534057461_122021",
+  "thumbnail": "http://http2.mlstatic.com/D_771077-MLA48534057461_122021-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_771077-MLA48534057461_122021-I.jpg",
+  "pictures": [
+    {
+      "id": "771077-MLA48534057461_122021",
+      "url": "http://http2.mlstatic.com/D_771077-MLA48534057461_122021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_771077-MLA48534057461_122021-O.jpg",
+      "size": "500x375",
+      "max_size": "1406x1057",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "mandatory_free_shipping"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": true,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQ1pBUjQ1OTM",
+      "name": "Zárate"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "city": {
+        "id": "TUxBQ1pBUjQ1OTM",
+        "name": "Zárate"
+      },
+      "state": {
+        "id": "TUxBUFpPTmFpbnRl",
+        "name": "Buenos Aires Interior"
+      }
+    },
+    "id": 1082172154
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "value_id": "6725189",
+      "value_name": "Adultos",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6725189",
+          "name": "Adultos",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_FRAME_MATERIALS",
+      "name": "Materiales del cuadro de la bicicleta",
+      "value_id": "7129787",
+      "value_name": "Acero",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7129787",
+          "name": "Acero",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_TYPE",
+      "name": "Tipo de bicicleta",
+      "value_id": "5344323",
+      "value_name": "Urbana",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "5344323",
+          "name": "Urbana",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "477232",
+      "value_name": "Fire Bird",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "477232",
+          "name": "Fire Bird",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "52049",
+      "value_name": "Negro",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "52049",
+          "name": "Negro",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_BRAKE_TYPE",
+      "name": "Tipo de freno delantero",
+      "value_id": "8117598",
+      "value_name": "V-brakes",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8117598",
+          "name": "V-brakes",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_GEARS",
+      "name": "Cambios delanteros",
+      "value_id": "8151464",
+      "value_name": "Shimano Tourney TZ400",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8151464",
+          "name": "Shimano Tourney TZ400",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GENDER",
+      "name": "Género",
+      "value_id": "110461",
+      "value_name": "Sin género",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "110461",
+          "name": "Sin género",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "IS_FOLDABLE",
+      "name": "Es plegable",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450295",
+      "value_name": "Negro",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2450295",
+          "name": "Negro",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAX_WEIGHT_SUPPORTED",
+      "name": "Peso máximo soportado",
+      "value_id": null,
+      "value_name": "100 kg",
+      "value_struct": {
+        "number": 100,
+        "unit": "kg"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "100 kg",
+          "struct": {
+            "number": 100,
+            "unit": "kg"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "3229665",
+      "value_name": "Plegable",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "3229665",
+          "name": "Plegable",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_BRAKE_TYPE",
+      "name": "Tipo de freno trasero",
+      "value_id": "6382000",
+      "value_name": "V-brakes",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6382000",
+          "name": "V-brakes",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_GEARS",
+      "name": "Cambios traseros",
+      "value_id": "11929829",
+      "value_name": "Shimano TZ20",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11929829",
+          "name": "Shimano TZ20",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REFLECTORS_POSITIONS",
+      "name": "Posiciones de los reflectores",
+      "value_id": null,
+      "value_name": "Delanteros,Ruedas,Traseros",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8117605",
+          "name": "Delanteros",
+          "struct": null
+        },
+        {
+          "id": "8117607",
+          "name": "Ruedas",
+          "struct": null
+        },
+        {
+          "id": "8117606",
+          "name": "Traseros",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REQUIRES_ASSEMBLY",
+      "name": "Requiere ensamblado",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SPEEDS_NUMBER",
+      "name": "Cantidad de velocidades",
+      "value_id": "577759",
+      "value_name": "6",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "577759",
+          "name": "6",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": null,
+      "value_name": "14 kg",
+      "value_struct": {
+        "number": 14,
+        "unit": "kg"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "14 kg",
+          "struct": {
+            "number": 14,
+            "unit": "kg"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Rodado",
+      "value_id": "94560",
+      "value_name": "20",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "94560",
+          "name": "20",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_BASKET",
+      "name": "Con canasto",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_FENDERS",
+      "name": "Con guardabarros",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_KICKSTAND",
+      "name": "Con pie de apoyo",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_RACK",
+      "name": "Con portaequipaje",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_TRAINING_WHEELS",
+      "name": "Con ruedas de entrenamiento",
+      "value_id": "242084",
+      "value_name": "No",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242084",
+          "name": "No",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "brand_verified",
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía de fábrica: 3 meses",
+  "catalog_product_id": "MLA17488419",
+  "domain_id": "MLA-BICYCLES",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2022-04-12T15:12:53.000Z",
+  "last_updated": "2022-07-21T03:04:35.511Z",
+  "health": null,
+  "catalog_listing": true,
+  "channels": [
+    "marketplace",
+    "mshops"
+  ]
+},
+"MLA918617457":{
+  "id": "MLA918617457",
+  "site_id": "MLA",
+  "title": "Bicicleta Paseo Femenina Futura Country R26 Frenos V-brakes Color Rosa Con Pie De Apoyo  ",
+  "subtitle": null,
+  "seller_id": 355576322,
+  "category_id": "MLA6143",
+  "official_store_id": null,
+  "price": 39107.2,
+  "base_price": 39107.2,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 4829,
+  "available_quantity": 500,
+  "sold_quantity": 100,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "30 días",
+      "value_struct": {
+        "number": 30,
+        "unit": "días"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "30 días",
+          "struct": {
+            "number": 30,
+            "unit": "días"
+          }
+        }
+      ]
+    },
+    {
+      "id": "INVOICE",
+      "name": "Facturación",
+      "value_id": "6891885",
+      "value_name": "Factura A",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6891885",
+          "name": "Factura A",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_pro",
+  "start_time": "2021-04-30T14:31:39.000Z",
+  "stop_time": "2042-05-25T12:50:28.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-918617457-bicicleta-paseo-femenina-futura-country-r26-frenos-v-brakes-color-rosa-con-pie-de-apoyo-_JM",
+  "thumbnail_id": "814026-MLA43347649337_092020",
+  "thumbnail": "http://http2.mlstatic.com/D_814026-MLA43347649337_092020-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_814026-MLA43347649337_092020-I.jpg",
+  "pictures": [
+    {
+      "id": "814026-MLA43347649337_092020",
+      "url": "http://http2.mlstatic.com/D_814026-MLA43347649337_092020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_814026-MLA43347649337_092020-O.jpg",
+      "size": "500x333",
+      "max_size": "1920x1280",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in",
+      "mandatory_free_shipping"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": true,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "name": "Gerli"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQkdFUjY5ODBa",
+        "name": "Gerli"
+      },
+      "city": {
+        "id": "TUxBQ0FWRTc5OTQ1",
+        "name": "Avellaneda"
+      },
+      "state": {
+        "id": "TUxBUEdSQXJlMDNm",
+        "name": "Bs.As. G.B.A. Sur"
+      }
+    },
+    "id": 1113688405
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "value_id": "6725189",
+      "value_name": "Adultos",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6725189",
+          "name": "Adultos",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_FRAME_MATERIALS",
+      "name": "Materiales del cuadro de la bicicleta",
+      "value_id": "7129787",
+      "value_name": "Acero",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7129787",
+          "name": "Acero",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_TYPE",
+      "name": "Tipo de bicicleta",
+      "value_id": "240446",
+      "value_name": "Paseo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "240446",
+          "name": "Paseo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "5452174",
+      "value_name": "Futura",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "5452174",
+          "name": "Futura",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "51994",
+      "value_name": "Rosa",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "51994",
+          "name": "Rosa",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "EXCLUSIVE_CHANNEL",
+      "name": "Canal exclusivo",
+      "value_id": "7865259",
+      "value_name": "Mercado Libre",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7865259",
+          "name": "Mercado Libre",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_BRAKE_TYPE",
+      "name": "Tipo de freno delantero",
+      "value_id": "8117598",
+      "value_name": "V-brakes",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8117598",
+          "name": "V-brakes",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GENDER",
+      "name": "Género",
+      "value_id": "339665",
+      "value_name": "Mujer",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "339665",
+          "name": "Mujer",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GTIN",
+      "name": "Código universal de producto",
+      "value_id": null,
+      "value_name": "7792216653486",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "7792216653486",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450312",
+      "value_name": "Rosa",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2450312",
+          "name": "Rosa",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "135703",
+      "value_name": "Country",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "135703",
+          "name": "Country",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_BRAKE_TYPE",
+      "name": "Tipo de freno trasero",
+      "value_id": "6382000",
+      "value_name": "V-brakes",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6382000",
+          "name": "V-brakes",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REFLECTORS_POSITIONS",
+      "name": "Posiciones de los reflectores",
+      "value_id": null,
+      "value_name": "Pedales,Ruedas,Traseros",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "Pedales",
+          "struct": null
+        },
+        {
+          "id": "8117607",
+          "name": "Ruedas",
+          "struct": null
+        },
+        {
+          "id": "8117606",
+          "name": "Traseros",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "57",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "57",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Rodado",
+      "value_id": "94556",
+      "value_name": "26",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "94556",
+          "name": "26",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_BASKET",
+      "name": "Con canasto",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_FENDERS",
+      "name": "Con guardabarros",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_KICKSTAND",
+      "name": "Con pie de apoyo",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WITH_RACK",
+      "name": "Con portaequipaje",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_thumbnail",
+    "loyalty_discount_eligible",
+    "extended_warranty_eligible",
+    "good_quality_picture",
+    "immediate_payment"
+  ],
+  "warranty": "Garantía de fábrica: 30 días",
+  "catalog_product_id": "MLA15990441",
+  "domain_id": "MLA-BICYCLES",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2021-04-30T14:31:40.000Z",
+  "last_updated": "2022-07-18T17:04:53.369Z",
+  "health": null,
+  "catalog_listing": true,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA1125108531":{
+  "id": "MLA1125108531",
+  "site_id": "MLA",
+  "title": "Mountain Bike Topmega Regal R29 M 21v Frenos De Disco Mecánico Cambios Sensah Mx7 Color Amarillo  ",
+  "subtitle": null,
+  "seller_id": 174556876,
+  "category_id": "MLA6143",
+  "official_store_id": null,
+  "price": 56961.65,
+  "base_price": 56961.65,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 1,
+  "available_quantity": 1,
+  "sold_quantity": 0,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "6 meses",
+      "value_struct": {
+        "number": 6,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "6 meses",
+          "struct": {
+            "number": 6,
+            "unit": "meses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "INVOICE",
+      "name": "Facturación",
+      "value_id": "6891885",
+      "value_name": "Factura A",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6891885",
+          "name": "Factura A",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2022-02-25T19:07:12.000Z",
+  "stop_time": "2042-02-20T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1125108531-mountain-bike-topmega-regal-r29-m-21v-frenos-de-disco-mecanico-cambios-sensah-mx7-color-amarillo-_JM",
+  "thumbnail_id": "695393-MLA49729630092_042022",
+  "thumbnail": "http://http2.mlstatic.com/D_695393-MLA49729630092_042022-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_695393-MLA49729630092_042022-I.jpg",
+  "pictures": [
+    {
+      "id": "695393-MLA49729630092_042022",
+      "url": "http://http2.mlstatic.com/D_695393-MLA49729630092_042022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_695393-MLA49729630092_042022-O.jpg",
+      "size": "500x362",
+      "max_size": "1092x792",
+      "quality": ""
+    },
+    {
+      "id": "674821-MLA44503977326_012021",
+      "url": "http://http2.mlstatic.com/D_674821-MLA44503977326_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_674821-MLA44503977326_012021-O.jpg",
+      "size": "500x358",
+      "max_size": "1321x946",
+      "quality": ""
+    },
+    {
+      "id": "985790-MLA44503977327_012021",
+      "url": "http://http2.mlstatic.com/D_985790-MLA44503977327_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_985790-MLA44503977327_012021-O.jpg",
+      "size": "500x380",
+      "max_size": "1321x1004",
+      "quality": ""
+    },
+    {
+      "id": "738469-MLA44503991262_012021",
+      "url": "http://http2.mlstatic.com/D_738469-MLA44503991262_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_738469-MLA44503991262_012021-O.jpg",
+      "size": "500x380",
+      "max_size": "1322x1005",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": true,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQlZJTDQyMjBa",
+      "name": "Villa Crespo"
+    },
+    "state": {
+      "id": "AR-C",
+      "name": "Capital Federal"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQlZJTDQyMjBa",
+        "name": "Villa Crespo"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGZlZG1sYQ",
+        "name": "Capital Federal"
+      },
+      "state": {
+        "id": "TUxBUENBUGw3M2E1",
+        "name": "Capital Federal"
+      }
+    },
+    "id": 155782338
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "AGE_GROUP",
+      "name": "Edad",
+      "value_id": "6725189",
+      "value_name": "Adultos",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6725189",
+          "name": "Adultos",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_FRAME_MATERIALS",
+      "name": "Materiales del cuadro de la bicicleta",
+      "value_id": "7126676",
+      "value_name": "Aluminio",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7126676",
+          "name": "Aluminio",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BICYCLE_TYPE",
+      "name": "Tipo de bicicleta",
+      "value_id": "240445",
+      "value_name": "Mountain bike",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "240445",
+          "name": "Mountain bike",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "449706",
+      "value_name": "TopMega",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "449706",
+          "name": "TopMega",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "52007",
+      "value_name": "Amarillo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "52007",
+          "name": "Amarillo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "EXCLUSIVE_CHANNEL",
+      "name": "Canal exclusivo",
+      "value_id": "7865259",
+      "value_name": "Mercado Libre",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7865259",
+          "name": "Mercado Libre",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRAME_SIZE",
+      "name": "Tamaño del cuadro",
+      "value_id": "454143",
+      "value_name": "M",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "454143",
+          "name": "M",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_BRAKE_TYPE",
+      "name": "Tipo de freno delantero",
+      "value_id": "8117600",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8117600",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "FRONT_GEARS",
+      "name": "Cambios delanteros",
+      "value_id": "11640169",
+      "value_name": "Sensah MX7",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11640169",
+          "name": "Sensah MX7",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "value_id": "2450296",
+      "value_name": "Amarillo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2450296",
+          "name": "Amarillo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "67289",
+      "value_name": "Regal",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "67289",
+          "name": "Regal",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_BRAKE_TYPE",
+      "name": "Tipo de freno trasero",
+      "value_id": "6440294",
+      "value_name": "Disco mecánico",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6440294",
+          "name": "Disco mecánico",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REAR_GEARS",
+      "name": "Cambios traseros",
+      "value_id": "11640168",
+      "value_name": "Sensah MX7",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "11640168",
+          "name": "Sensah MX7",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "REFLECTORS_POSITIONS",
+      "name": "Posiciones de los reflectores",
+      "value_id": "8161511",
+      "value_name": "Pedales",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8161511",
+          "name": "Pedales",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "RIM_TYPE",
+      "name": "Tipo de llanta",
+      "value_id": "6816752",
+      "value_name": "Doble pared",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6816752",
+          "name": "Doble pared",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "5900002.01",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "5900002.01",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SPEEDS_NUMBER",
+      "name": "Cantidad de velocidades",
+      "value_id": "577735",
+      "value_name": "21",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "577735",
+          "name": "21",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SUSPENSION_TYPES",
+      "name": "Tipos de suspensión",
+      "value_id": "6130308",
+      "value_name": "Delantera",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "6130308",
+          "name": "Delantera",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WHEEL_SIZE",
+      "name": "Rodado",
+      "value_id": "154748",
+      "value_name": "29",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "154748",
+          "name": "29",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía de fábrica: 6 meses",
+  "catalog_product_id": "MLA16224848",
+  "domain_id": "MLA-BICYCLES",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2022-02-25T19:07:12.000Z",
+  "last_updated": "2022-07-20T19:58:05.000Z",
+  "health": null,
+  "catalog_listing": true,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA853237993":{
+  "id": "MLA853237993",
+  "site_id": "MLA",
+  "title": "Luz Bicicleta Trasera Solar Recargable Doble Led Destellador",
+  "subtitle": null,
+  "seller_id": 436122206,
+  "category_id": "MLA371429",
+  "official_store_id": null,
+  "price": 1437.44,
+  "base_price": 1437.44,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 292,
+  "available_quantity": 1,
+  "sold_quantity": 250,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "1 meses",
+      "value_struct": {
+        "number": 1,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "1 meses",
+          "struct": {
+            "number": 1,
+            "unit": "meses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230280",
+      "value_name": "Garantía del vendedor",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230280",
+          "name": "Garantía del vendedor",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2020-05-04T17:22:01.000Z",
+  "stop_time": "2040-04-29T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-853237993-luz-bicicleta-trasera-solar-recargable-doble-led-destellador-_JM",
+  "thumbnail_id": "607508-MLA41635220125_052020",
+  "thumbnail": "http://http2.mlstatic.com/D_607508-MLA41635220125_052020-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_607508-MLA41635220125_052020-I.jpg",
+  "pictures": [
+    {
+      "id": "607508-MLA41635220125_052020",
+      "url": "http://http2.mlstatic.com/D_607508-MLA41635220125_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_607508-MLA41635220125_052020-O.jpg",
+      "size": "500x396",
+      "max_size": "1198x951",
+      "quality": ""
+    },
+    {
+      "id": "832416-MLA41635176919_052020",
+      "url": "http://http2.mlstatic.com/D_832416-MLA41635176919_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_832416-MLA41635176919_052020-O.jpg",
+      "size": "500x248",
+      "max_size": "1266x628",
+      "quality": ""
+    },
+    {
+      "id": "890464-MLA41635210308_052020",
+      "url": "http://http2.mlstatic.com/D_890464-MLA41635210308_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_890464-MLA41635210308_052020-O.jpg",
+      "size": "475x500",
+      "max_size": "1140x1199",
+      "quality": ""
+    },
+    {
+      "id": "641813-MLA41635203415_052020",
+      "url": "http://http2.mlstatic.com/D_641813-MLA41635203415_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_641813-MLA41635203415_052020-O.jpg",
+      "size": "420x500",
+      "max_size": "1108x1318",
+      "quality": ""
+    },
+    {
+      "id": "969596-MLA41635212262_052020",
+      "url": "http://http2.mlstatic.com/D_969596-MLA41635212262_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_969596-MLA41635212262_052020-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "861683-MLA41635176925_052020",
+      "url": "http://http2.mlstatic.com/D_861683-MLA41635176925_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_861683-MLA41635176925_052020-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "661146-MLA41635201509_052020",
+      "url": "http://http2.mlstatic.com/D_661146-MLA41635201509_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_661146-MLA41635201509_052020-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "995805-MLA41635220137_052020",
+      "url": "http://http2.mlstatic.com/D_995805-MLA41635220137_052020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_995805-MLA41635220137_052020-O.jpg",
+      "size": "500x467",
+      "max_size": "1200x1123",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in"
+    ],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": false,
+    "logistic_type": "fulfillment",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQlZJTDE2MDBa",
+      "name": "Villa Pueyrredón"
+    },
+    "state": {
+      "id": "AR-C",
+      "name": "Capital Federal"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQlZJTDE2MDBa",
+        "name": "Villa Pueyrredón"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGZlZG1sYQ",
+        "name": "Capital Federal"
+      },
+      "state": {
+        "id": "TUxBUENBUGw3M2E1",
+        "name": "Capital Federal"
+      }
+    },
+    "id": 1037378106
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "4190035",
+      "value_name": "MAS Accesorios",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "4190035",
+          "name": "MAS Accesorios",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GTIN",
+      "name": "Código universal de producto",
+      "value_id": "-1",
+      "value_name": null,
+      "value_struct": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "LIGHT_TYPE",
+      "name": "Tipo de luz",
+      "value_id": "1123747",
+      "value_name": "LED",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "1123747",
+          "name": "LED",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "LUMINOUS_FLUX",
+      "name": "Flujo luminoso",
+      "value_id": "-1",
+      "value_name": null,
+      "value_struct": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "Destellador Trasero",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "Destellador Trasero",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_HEIGHT",
+      "name": "Altura del paquete",
+      "value_id": null,
+      "value_name": "2.6 cm",
+      "value_struct": {
+        "number": 2.6,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "2.6 cm",
+          "struct": {
+            "number": 2.6,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_LENGTH",
+      "name": "Largo del paquete",
+      "value_id": null,
+      "value_name": "13 cm",
+      "value_struct": {
+        "number": 13,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "13 cm",
+          "struct": {
+            "number": 13,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_WEIGHT",
+      "name": "Peso del paquete",
+      "value_id": null,
+      "value_name": "40 g",
+      "value_struct": {
+        "number": 40,
+        "unit": "g"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "40 g",
+          "struct": {
+            "number": 40,
+            "unit": "g"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_WIDTH",
+      "name": "Ancho del paquete",
+      "value_id": null,
+      "value_name": "9.6 cm",
+      "value_struct": {
+        "number": 9.6,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "9.6 cm",
+          "struct": {
+            "number": 9.6,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "POSITION",
+      "name": "Posición",
+      "value_id": "116949",
+      "value_name": "Trasera",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "116949",
+          "name": "Trasera",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "POWER_SUPPLY_TYPE",
+      "name": "Tipo de alimentación",
+      "value_id": "4086856",
+      "value_name": "Solar",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "4086856",
+          "name": "Solar",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "LUZ_BICICLETA_TRASERA_SOLAR_RECARGABLE_DOBLE_LED_DESTELLADOR",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "LUZ_BICICLETA_TRASERA_SOLAR_RECARGABLE_DOBLE_LED_DESTELLADOR",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "brand_verified",
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "loyalty_discount_eligible",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía del vendedor: 1 meses",
+  "catalog_product_id": null,
+  "domain_id": "MLA-BICYCLE_LIGHTS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2020-05-04T17:22:01.000Z",
+  "last_updated": "2022-07-21T15:50:40.000Z",
+  "health": 0.75,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA811924989":{
+  "id": "MLA811924989",
+  "site_id": "MLA",
+  "title": "Inflador De Pie Con Manómetro Bulit Serie 600",
+  "subtitle": null,
+  "seller_id": 422682314,
+  "category_id": "MLA371429",
+  "official_store_id": 630,
+  "price": 6299,
+  "base_price": 6299,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 3454,
+  "available_quantity": 50,
+  "sold_quantity": 500,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "6 meses",
+      "value_struct": {
+        "number": 6,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "6 meses",
+          "struct": {
+            "number": 6,
+            "unit": "meses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2019-08-29T17:39:20.000Z",
+  "stop_time": "2040-11-27T18:20:16.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-811924989-inflador-de-pie-con-manometro-bulit-serie-600-_JM",
+  "thumbnail_id": "647661-MLA32006879899_082019",
+  "thumbnail": "http://http2.mlstatic.com/D_647661-MLA32006879899_082019-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_647661-MLA32006879899_082019-I.jpg",
+  "pictures": [
+    {
+      "id": "647661-MLA32006879899_082019",
+      "url": "http://http2.mlstatic.com/D_647661-MLA32006879899_082019-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_647661-MLA32006879899_082019-O.jpg",
+      "size": "352x500",
+      "max_size": "519x736",
+      "quality": ""
+    },
+    {
+      "id": "704755-MLA47779948581_102021",
+      "url": "http://http2.mlstatic.com/D_704755-MLA47779948581_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_704755-MLA47779948581_102021-O.jpg",
+      "size": "479x500",
+      "max_size": "1200x1251",
+      "quality": ""
+    },
+    {
+      "id": "804479-MLA45687329299_042021",
+      "url": "http://http2.mlstatic.com/D_804479-MLA45687329299_042021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_804479-MLA45687329299_042021-O.jpg",
+      "size": "472x500",
+      "max_size": "783x828",
+      "quality": ""
+    },
+    {
+      "id": "750398-MLA32006882864_082019",
+      "url": "http://http2.mlstatic.com/D_750398-MLA32006882864_082019-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_750398-MLA32006882864_082019-O.jpg",
+      "size": "479x500",
+      "max_size": "639x666",
+      "quality": ""
+    },
+    {
+      "id": "706082-MLA41060413745_032020",
+      "url": "http://http2.mlstatic.com/D_706082-MLA41060413745_032020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_706082-MLA41060413745_032020-O.jpg",
+      "size": "500x480",
+      "max_size": "706x678",
+      "quality": ""
+    },
+    {
+      "id": "655087-MLA41060407915_032020",
+      "url": "http://http2.mlstatic.com/D_655087-MLA41060407915_032020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_655087-MLA41060407915_032020-O.jpg",
+      "size": "500x333",
+      "max_size": "1200x801",
+      "quality": ""
+    },
+    {
+      "id": "739015-MLA44675389624_012021",
+      "url": "http://http2.mlstatic.com/D_739015-MLA44675389624_012021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_739015-MLA44675389624_012021-O.jpg",
+      "size": "500x302",
+      "max_size": "1294x784",
+      "quality": ""
+    },
+    {
+      "id": "677731-MLA45669833322_042021",
+      "url": "http://http2.mlstatic.com/D_677731-MLA45669833322_042021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_677731-MLA45669833322_042021-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "668886-MLA45669786425_042021",
+      "url": "http://http2.mlstatic.com/D_668886-MLA45669786425_042021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_668886-MLA45669786425_042021-O.jpg",
+      "size": "500x500",
+      "max_size": "1200x1200",
+      "quality": ""
+    },
+    {
+      "id": "654173-MLA42206079543_062020",
+      "url": "http://http2.mlstatic.com/D_654173-MLA42206079543_062020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_654173-MLA42206079543_062020-O.jpg",
+      "size": "500x438",
+      "max_size": "862x756",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "MLA-chg-threshold-feb-22",
+      "self_service_in",
+      "mandatory_free_shipping"
+    ],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": true,
+    "logistic_type": "fulfillment",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQ1ZJQ2E3MTQz",
+      "name": "Vicente López"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "city": {
+        "id": "TUxBQ1ZJQ2E3MTQz",
+        "name": "Vicente López"
+      },
+      "state": {
+        "id": "TUxBUEdSQWU4ZDkz",
+        "name": "Bs.As. G.B.A. Norte"
+      }
+    },
+    "id": 1222928280
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "MANUFACTURING_TIME",
+      "name": "Disponibilidad de stock",
+      "value_id": null,
+      "value_name": "2 días",
+      "value_struct": {
+        "number": 2,
+        "unit": "días"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "2 días",
+          "struct": {
+            "number": 2,
+            "unit": "días"
+          }
+        }
+      ],
+      "attribute_group_id": "",
+      "attribute_group_name": ""
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "2511145",
+      "value_name": "Bulit",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2511145",
+          "name": "Bulit",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "INCLUDES_ACCESSORIES",
+      "name": "Incluye accesorios",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAX_PRESSURE",
+      "name": "Presión máxima",
+      "value_id": null,
+      "value_name": "160 psi",
+      "value_struct": {
+        "number": 160,
+        "unit": "psi"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "160 psi",
+          "struct": {
+            "number": 160,
+            "unit": "psi"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "Inflador de Pie con Manómetro Serie 600",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "Inflador de Pie con Manómetro Serie 600",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PRODUCT_FEATURES",
+      "name": "Características del producto",
+      "value_id": null,
+      "value_name": "Frágil,Sin vencimiento",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7435883",
+          "name": "Frágil",
+          "struct": null
+        },
+        {
+          "id": "8847339",
+          "name": "Sin vencimiento",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SHIPMENT_PACKING",
+      "name": "Embalaje del envío",
+      "value_id": "7435892",
+      "value_name": "Caja",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7435892",
+          "name": "Caja",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [
+    {
+      "id": 42662547329,
+      "price": 6299.00,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "52028",
+          "value_name": "Azul",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "52028",
+              "name": "Azul",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 50,
+      "sold_quantity": 500,
+      "sale_terms": [],
+      "picture_ids": [
+        "647661-MLA32006879899_082019",
+        "704755-MLA47779948581_102021",
+        "804479-MLA45687329299_042021",
+        "750398-MLA32006882864_082019",
+        "706082-MLA41060413745_032020",
+        "655087-MLA41060407915_032020",
+        "739015-MLA44675389624_012021",
+        "677731-MLA45669833322_042021",
+        "668886-MLA45669786425_042021",
+        "654173-MLA42206079543_062020"
+      ],
+      "catalog_product_id": null
+    }
+  ],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "brand_verified",
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "loyalty_discount_eligible",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía de fábrica: 6 meses",
+  "catalog_product_id": null,
+  "domain_id": "MLA-MANUAL_AIR_PUMPS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [
+    "MLA6888"
+  ],
+  "automatic_relist": false,
+  "date_created": "2019-08-29T17:39:21.000Z",
+  "last_updated": "2022-07-21T13:17:13.242Z",
+  "health": 0.87,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace",
+    "mshops"
+  ]
+},
+"MLA927890016":{
+  "id": "MLA927890016",
+  "site_id": "MLA",
+  "title": "Espejo Retrovisor Bicicleta Brazo Flexible Giratorio 360",
+  "subtitle": null,
+  "seller_id": 436122206,
+  "category_id": "MLA371429",
+  "official_store_id": null,
+  "price": 2726.44,
+  "base_price": 2726.44,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 757,
+  "available_quantity": 50,
+  "sold_quantity": 500,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "2 meses",
+      "value_struct": {
+        "number": 2,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "2 meses",
+          "struct": {
+            "number": 2,
+            "unit": "meses"
+          }
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2021-07-01T16:10:46.000Z",
+  "stop_time": "2041-06-26T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-927890016-espejo-retrovisor-bicicleta-brazo-flexible-giratorio-360-_JM",
+  "thumbnail_id": "751021-MLA46582720705_072021",
+  "thumbnail": "http://http2.mlstatic.com/D_751021-MLA46582720705_072021-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_751021-MLA46582720705_072021-I.jpg",
+  "pictures": [
+    {
+      "id": "751021-MLA46582720705_072021",
+      "url": "http://http2.mlstatic.com/D_751021-MLA46582720705_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_751021-MLA46582720705_072021-O.jpg",
+      "size": "500x500",
+      "max_size": "960x960",
+      "quality": ""
+    },
+    {
+      "id": "957145-MLA46582840275_072021",
+      "url": "http://http2.mlstatic.com/D_957145-MLA46582840275_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_957145-MLA46582840275_072021-O.jpg",
+      "size": "382x500",
+      "max_size": "735x960",
+      "quality": ""
+    },
+    {
+      "id": "774569-MLA46582852186_072021",
+      "url": "http://http2.mlstatic.com/D_774569-MLA46582852186_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_774569-MLA46582852186_072021-O.jpg",
+      "size": "482x500",
+      "max_size": "960x994",
+      "quality": ""
+    },
+    {
+      "id": "913860-MLA46582775500_072021",
+      "url": "http://http2.mlstatic.com/D_913860-MLA46582775500_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_913860-MLA46582775500_072021-O.jpg",
+      "size": "500x362",
+      "max_size": "1020x740",
+      "quality": ""
+    },
+    {
+      "id": "709507-MLA46582797447_072021",
+      "url": "http://http2.mlstatic.com/D_709507-MLA46582797447_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_709507-MLA46582797447_072021-O.jpg",
+      "size": "500x384",
+      "max_size": "1020x784",
+      "quality": ""
+    },
+    {
+      "id": "874197-MLA46582656997_072021",
+      "url": "http://http2.mlstatic.com/D_874197-MLA46582656997_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_874197-MLA46582656997_072021-O.jpg",
+      "size": "500x411",
+      "max_size": "800x659",
+      "quality": ""
+    },
+    {
+      "id": "972129-MLA46582836281_072021",
+      "url": "http://http2.mlstatic.com/D_972129-MLA46582836281_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_972129-MLA46582836281_072021-O.jpg",
+      "size": "500x431",
+      "max_size": "966x833",
+      "quality": ""
+    },
+    {
+      "id": "957157-MLA46582721687_072021",
+      "url": "http://http2.mlstatic.com/D_957157-MLA46582721687_072021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_957157-MLA46582721687_072021-O.jpg",
+      "size": "462x500",
+      "max_size": "960x1038",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in"
+    ],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": false,
+    "logistic_type": "fulfillment",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQlZJTDE2MDBa",
+      "name": "Villa Pueyrredón"
+    },
+    "state": {
+      "id": "AR-C",
+      "name": "Capital Federal"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQlZJTDE2MDBa",
+        "name": "Villa Pueyrredón"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGZlZG1sYQ",
+        "name": "Capital Federal"
+      },
+      "state": {
+        "id": "TUxBUENBUGw3M2E1",
+        "name": "Capital Federal"
+      }
+    },
+    "id": 1037378106
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "4190035",
+      "value_name": "MAS Accesorios",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "4190035",
+          "name": "MAS Accesorios",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "52049",
+      "value_name": "Negro",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "52049",
+          "name": "Negro",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "GTIN",
+      "name": "Código universal de producto",
+      "value_id": "-1",
+      "value_name": null,
+      "value_struct": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MIRROR_LOCATIONS",
+      "name": "Posiciones del espejo",
+      "value_id": null,
+      "value_name": "todas",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "todas",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "Espejo Flexible Reforzado",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "Espejo Flexible Reforzado",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MOUNTING_PLACES",
+      "name": "Lugares de montaje",
+      "value_id": "5150967",
+      "value_name": "Manubrio",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "5150967",
+          "name": "Manubrio",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_HEIGHT",
+      "name": "Altura del paquete",
+      "value_id": null,
+      "value_name": "3.2 cm",
+      "value_struct": {
+        "number": 3.2,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "3.2 cm",
+          "struct": {
+            "number": 3.2,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_LENGTH",
+      "name": "Largo del paquete",
+      "value_id": null,
+      "value_name": "38 cm",
+      "value_struct": {
+        "number": 38,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "38 cm",
+          "struct": {
+            "number": 38,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_WEIGHT",
+      "name": "Peso del paquete",
+      "value_id": null,
+      "value_name": "120 g",
+      "value_struct": {
+        "number": 120,
+        "unit": "g"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "120 g",
+          "struct": {
+            "number": 120,
+            "unit": "g"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PACKAGE_WIDTH",
+      "name": "Ancho del paquete",
+      "value_id": null,
+      "value_name": "9.6 cm",
+      "value_struct": {
+        "number": 9.6,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "9.6 cm",
+          "struct": {
+            "number": 9.6,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PRODUCT_FEATURES",
+      "name": "Características del producto",
+      "value_id": "8847339",
+      "value_name": "Sin vencimiento",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8847339",
+          "name": "Sin vencimiento",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "ESPEJO_RETROVISOR_BICICLETA_BRAZO_FLEXIBLE_GIRATORIO_360",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "ESPEJO_RETROVISOR_BICICLETA_BRAZO_FLEXIBLE_GIRATORIO_360",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SHIPMENT_PACKING",
+      "name": "Embalaje del envío",
+      "value_id": "7575939",
+      "value_name": "Auto-despachable",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7575939",
+          "name": "Auto-despachable",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "UNITS_PER_PACKAGE",
+      "name": "Unidades por envase",
+      "value_id": null,
+      "value_name": "1",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "1",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía de fábrica: 2 meses",
+  "catalog_product_id": null,
+  "domain_id": "MLA-BICYCLE_MIRRORS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2021-07-01T16:10:46.000Z",
+  "last_updated": "2022-07-21T15:50:43.048Z",
+  "health": 0.75,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA1123626473":{
+  "id": "MLA1123626473",
+  "site_id": "MLA",
+  "title": "Bolso Bajo Asiento Camara Accesorios Nitro Bikes Tour",
+  "subtitle": null,
+  "seller_id": 31187828,
+  "category_id": "MLA371429",
+  "official_store_id": null,
+  "price": 1056,
+  "base_price": 1056,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 45,
+  "available_quantity": 1,
+  "sold_quantity": 5,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "6 meses",
+      "value_struct": {
+        "number": 6,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "6 meses",
+          "struct": {
+            "number": 6,
+            "unit": "meses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230280",
+      "value_name": "Garantía del vendedor",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230280",
+          "name": "Garantía del vendedor",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2022-02-15T15:34:33.000Z",
+  "stop_time": "2042-02-10T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-1123626473-bolso-bajo-asiento-camara-accesorios-nitro-bikes-tour-_JM",
+  "thumbnail_id": "985325-MLA49117715425_022022",
+  "thumbnail": "http://http2.mlstatic.com/D_985325-MLA49117715425_022022-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_985325-MLA49117715425_022022-I.jpg",
+  "pictures": [
+    {
+      "id": "985325-MLA49117715425_022022",
+      "url": "http://http2.mlstatic.com/D_985325-MLA49117715425_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_985325-MLA49117715425_022022-O.jpg",
+      "size": "500x381",
+      "max_size": "828x632",
+      "quality": ""
+    },
+    {
+      "id": "992366-MLA48992122229_022022",
+      "url": "http://http2.mlstatic.com/D_992366-MLA48992122229_022022-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_992366-MLA48992122229_022022-O.jpg",
+      "size": "500x500",
+      "max_size": "1100x1100",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": false,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQ01PUmI1NTBj",
+      "name": "Morón"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQk1PUjgwNTJa",
+        "name": "Morón"
+      },
+      "city": {
+        "id": "TUxBQ01PUmI1NTBj",
+        "name": "Morón"
+      },
+      "state": {
+        "id": "TUxBUEdSQWVmNTVm",
+        "name": "Bs.As. G.B.A. Oeste"
+      }
+    },
+    "id": 273252289
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "243232",
+      "value_name": "Nitro",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "243232",
+          "name": "Nitro",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "HEIGHT",
+      "name": "Altura",
+      "value_id": null,
+      "value_name": "10 cm",
+      "value_struct": {
+        "number": 10,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "10 cm",
+          "struct": {
+            "number": 10,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "LENGTH",
+      "name": "Largo",
+      "value_id": null,
+      "value_name": "15 cm",
+      "value_struct": {
+        "number": 15,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "15 cm",
+          "struct": {
+            "number": 15,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MATERIAL",
+      "name": "Material",
+      "value_id": "466794",
+      "value_name": "Poliéster",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "466794",
+          "name": "Poliéster",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "TOUR",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "TOUR",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SELLER_SKU",
+      "name": "SKU",
+      "value_id": null,
+      "value_name": "BOL034",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "BOL034",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "VOLUME_CAPACITY",
+      "name": "Capacidad en volumen",
+      "value_id": "-1",
+      "value_name": null,
+      "value_struct": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": "2767",
+      "value_name": "80 g",
+      "value_struct": {
+        "number": 80,
+        "unit": "g"
+      },
+      "values": [
+        {
+          "id": "2767",
+          "name": "80 g",
+          "struct": {
+            "number": 80,
+            "unit": "g"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WIDTH",
+      "name": "Ancho",
+      "value_id": null,
+      "value_name": "9 cm",
+      "value_struct": {
+        "number": 9,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "9 cm",
+          "struct": {
+            "number": 9,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía del vendedor: 6 meses",
+  "catalog_product_id": null,
+  "domain_id": "MLA-BICYCLE_BAGS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2022-02-15T15:34:33.000Z",
+  "last_updated": "2022-07-18T22:02:51.033Z",
+  "health": 0.77,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace"
+  ]
+},
+"MLA897822277":{
+  "id": "MLA897822277",
+  "site_id": "MLA",
+  "title": "Inflador De Pie ,bici, Moto, Auto, Infla Bles, Pileta Pelota",
+  "subtitle": null,
+  "seller_id": 16390530,
+  "category_id": "MLA371429",
+  "official_store_id": null,
+  "price": 1810,
+  "base_price": 1810,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 1777,
+  "available_quantity": 1,
+  "sold_quantity": 500,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230280",
+      "value_name": "Garantía del vendedor",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230280",
+          "name": "Garantía del vendedor",
+          "struct": null
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "90 días",
+      "value_struct": {
+        "number": 90,
+        "unit": "días"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "90 días",
+          "struct": {
+            "number": 90,
+            "unit": "días"
+          }
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2020-11-18T23:24:44.000Z",
+  "stop_time": "2040-11-13T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-897822277-inflador-de-pie-bici-moto-auto-infla-bles-pileta-pelota-_JM",
+  "thumbnail_id": "706548-MLA44116273858_112020",
+  "thumbnail": "http://http2.mlstatic.com/D_706548-MLA44116273858_112020-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_706548-MLA44116273858_112020-I.jpg",
+  "pictures": [
+    {
+      "id": "706548-MLA44116273858_112020",
+      "url": "http://http2.mlstatic.com/D_706548-MLA44116273858_112020-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_706548-MLA44116273858_112020-O.jpg",
+      "size": "480x500",
+      "max_size": "1072x1116",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_in"
+    ],
+    "dimensions": null,
+    "local_pick_up": true,
+    "free_shipping": false,
+    "logistic_type": "cross_docking",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "name": "Lomas Del Mirador"
+    },
+    "state": {
+      "id": "AR-B",
+      "name": "Buenos Aires"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQkxPTTI1MjNa",
+        "name": "Lomas del Mirador"
+      },
+      "city": {
+        "id": "TUxBQ0xBTWF0YW56",
+        "name": "La Matanza"
+      },
+      "state": {
+        "id": "TUxBUEdSQWVmNTVm",
+        "name": "Bs.As. G.B.A. Oeste"
+      }
+    },
+    "id": 87774684
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "5149399",
+      "value_name": "Iael",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "5149399",
+          "name": "Iael",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "INCLUDES_ACCESSORIES",
+      "name": "Incluye accesorios",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MAX_PRESSURE",
+      "name": "Presión máxima",
+      "value_id": null,
+      "value_name": "70 psi",
+      "value_struct": {
+        "number": 70,
+        "unit": "psi"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "70 psi",
+          "struct": {
+            "number": 70,
+            "unit": "psi"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "Pie",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "Pie",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [
+    {
+      "id": 68643863622,
+      "price": 1810,
+      "attribute_combinations": [
+        {
+          "id": "COLOR",
+          "name": "Color",
+          "value_id": "52049",
+          "value_name": "Negro",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "52049",
+              "name": "Negro",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 500,
+      "sale_terms": [],
+      "picture_ids": [
+        "706548-MLA44116273858_112020"
+      ],
+      "catalog_product_id": null
+    }
+  ],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "brand_verified",
+    "extended_warranty_eligible",
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "loyalty_discount_eligible",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía del vendedor: 90 días",
+  "catalog_product_id": null,
+  "domain_id": "MLA-MANUAL_AIR_PUMPS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [
+    "MLA6888"
+  ],
+  "automatic_relist": false,
+  "date_created": "2020-11-18T23:24:44.000Z",
+  "last_updated": "2022-07-21T15:45:06.730Z",
+  "health": 0.8,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace",
+    "mshops"
+  ]
+},
+"MLA934659032":{
+  "id": "MLA934659032",
+  "site_id": "MLA",
+  "title": "Estuche Para Bicicleta Bolso Bajo Asiento Velcro Impermeable",
+  "subtitle": null,
+  "seller_id": 436122206,
+  "category_id": "MLA371429",
+  "official_store_id": null,
+  "price": 2120.56,
+  "base_price": 2120.56,
+  "original_price": null,
+  "currency_id": "ARS",
+  "initial_quantity": 532,
+  "available_quantity": 2,
+  "sold_quantity": 350,
+  "sale_terms": [
+    {
+      "id": "WARRANTY_TIME",
+      "name": "Tiempo de garantía",
+      "value_id": null,
+      "value_name": "2 meses",
+      "value_struct": {
+        "number": 2,
+        "unit": "meses"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "2 meses",
+          "struct": {
+            "number": 2,
+            "unit": "meses"
+          }
+        }
+      ]
+    },
+    {
+      "id": "WARRANTY_TYPE",
+      "name": "Tipo de garantía",
+      "value_id": "2230279",
+      "value_name": "Garantía de fábrica",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230279",
+          "name": "Garantía de fábrica",
+          "struct": null
+        }
+      ]
+    }
+  ],
+  "buying_mode": "buy_it_now",
+  "listing_type_id": "gold_special",
+  "start_time": "2021-08-17T19:12:25.000Z",
+  "stop_time": "2041-08-12T04:00:00.000Z",
+  "condition": "new",
+  "permalink": "https://articulo.mercadolibre.com.ar/MLA-934659032-estuche-para-bicicleta-bolso-bajo-asiento-velcro-impermeable-_JM",
+  "thumbnail_id": "938251-MLA48023766869_102021",
+  "thumbnail": "http://http2.mlstatic.com/D_938251-MLA48023766869_102021-I.jpg",
+  "secure_thumbnail": "https://http2.mlstatic.com/D_938251-MLA48023766869_102021-I.jpg",
+  "pictures": [
+    {
+      "id": "643502-MLA48023821491_102021",
+      "url": "http://http2.mlstatic.com/D_643502-MLA48023821491_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_643502-MLA48023821491_102021-O.jpg",
+      "size": "500x255",
+      "max_size": "844x432",
+      "quality": ""
+    },
+    {
+      "id": "948502-MLA48023817525_102021",
+      "url": "http://http2.mlstatic.com/D_948502-MLA48023817525_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_948502-MLA48023817525_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "874999-MLA48023764817_102021",
+      "url": "http://http2.mlstatic.com/D_874999-MLA48023764817_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_874999-MLA48023764817_102021-O.jpg",
+      "size": "500x464",
+      "max_size": "862x800",
+      "quality": ""
+    },
+    {
+      "id": "798491-MLA48023821492_102021",
+      "url": "http://http2.mlstatic.com/D_798491-MLA48023821492_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_798491-MLA48023821492_102021-O.jpg",
+      "size": "500x376",
+      "max_size": "818x616",
+      "quality": ""
+    },
+    {
+      "id": "955254-MLA48023807584_102021",
+      "url": "http://http2.mlstatic.com/D_955254-MLA48023807584_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_955254-MLA48023807584_102021-O.jpg",
+      "size": "500x450",
+      "max_size": "872x785",
+      "quality": ""
+    },
+    {
+      "id": "620660-MLA48023787675_102021",
+      "url": "http://http2.mlstatic.com/D_620660-MLA48023787675_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_620660-MLA48023787675_102021-O.jpg",
+      "size": "496x500",
+      "max_size": "822x828",
+      "quality": ""
+    },
+    {
+      "id": "608852-MLA48023779771_102021",
+      "url": "http://http2.mlstatic.com/D_608852-MLA48023779771_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_608852-MLA48023779771_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "848384-MLA48023783702_102021",
+      "url": "http://http2.mlstatic.com/D_848384-MLA48023783702_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_848384-MLA48023783702_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "938251-MLA48023766869_102021",
+      "url": "http://http2.mlstatic.com/D_938251-MLA48023766869_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_938251-MLA48023766869_102021-O.jpg",
+      "size": "500x466",
+      "max_size": "863x806",
+      "quality": ""
+    },
+    {
+      "id": "853901-MLA48023772820_102021",
+      "url": "http://http2.mlstatic.com/D_853901-MLA48023772820_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_853901-MLA48023772820_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "937281-MLA48023783726_102021",
+      "url": "http://http2.mlstatic.com/D_937281-MLA48023783726_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_937281-MLA48023783726_102021-O.jpg",
+      "size": "496x500",
+      "max_size": "822x828",
+      "quality": ""
+    },
+    {
+      "id": "872185-MLA48023804585_102021",
+      "url": "http://http2.mlstatic.com/D_872185-MLA48023804585_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_872185-MLA48023804585_102021-O.jpg",
+      "size": "500x376",
+      "max_size": "818x616",
+      "quality": ""
+    },
+    {
+      "id": "636294-MLA48023800694_102021",
+      "url": "http://http2.mlstatic.com/D_636294-MLA48023800694_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_636294-MLA48023800694_102021-O.jpg",
+      "size": "500x349",
+      "max_size": "820x573",
+      "quality": ""
+    },
+    {
+      "id": "626162-MLA48023807609_102021",
+      "url": "http://http2.mlstatic.com/D_626162-MLA48023807609_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_626162-MLA48023807609_102021-O.jpg",
+      "size": "500x255",
+      "max_size": "844x432",
+      "quality": ""
+    },
+    {
+      "id": "886568-MLA48023773799_102021",
+      "url": "http://http2.mlstatic.com/D_886568-MLA48023773799_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_886568-MLA48023773799_102021-O.jpg",
+      "size": "500x450",
+      "max_size": "872x785",
+      "quality": ""
+    },
+    {
+      "id": "625811-MLA48023774767_102021",
+      "url": "http://http2.mlstatic.com/D_625811-MLA48023774767_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_625811-MLA48023774767_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "952464-MLA48023772821_102021",
+      "url": "http://http2.mlstatic.com/D_952464-MLA48023772821_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_952464-MLA48023772821_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "923322-MLA48023800705_102021",
+      "url": "http://http2.mlstatic.com/D_923322-MLA48023800705_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_923322-MLA48023800705_102021-O.jpg",
+      "size": "500x464",
+      "max_size": "862x800",
+      "quality": ""
+    },
+    {
+      "id": "835314-MLA48023772848_102021",
+      "url": "http://http2.mlstatic.com/D_835314-MLA48023772848_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_835314-MLA48023772848_102021-O.jpg",
+      "size": "500x376",
+      "max_size": "818x616",
+      "quality": ""
+    },
+    {
+      "id": "976379-MLA48023773822_102021",
+      "url": "http://http2.mlstatic.com/D_976379-MLA48023773822_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_976379-MLA48023773822_102021-O.jpg",
+      "size": "500x255",
+      "max_size": "844x432",
+      "quality": ""
+    },
+    {
+      "id": "742300-MLA48023803594_102021",
+      "url": "http://http2.mlstatic.com/D_742300-MLA48023803594_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_742300-MLA48023803594_102021-O.jpg",
+      "size": "496x500",
+      "max_size": "822x828",
+      "quality": ""
+    },
+    {
+      "id": "890999-MLA48023782778_102021",
+      "url": "http://http2.mlstatic.com/D_890999-MLA48023782778_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_890999-MLA48023782778_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "890633-MLA48023817572_102021",
+      "url": "http://http2.mlstatic.com/D_890633-MLA48023817572_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_890633-MLA48023817572_102021-O.jpg",
+      "size": "500x349",
+      "max_size": "820x573",
+      "quality": ""
+    },
+    {
+      "id": "908497-MLA48023779820_102021",
+      "url": "http://http2.mlstatic.com/D_908497-MLA48023779820_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_908497-MLA48023779820_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    },
+    {
+      "id": "712401-MLA48023822489_102021",
+      "url": "http://http2.mlstatic.com/D_712401-MLA48023822489_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_712401-MLA48023822489_102021-O.jpg",
+      "size": "500x450",
+      "max_size": "872x785",
+      "quality": ""
+    },
+    {
+      "id": "739484-MLA48023764865_102021",
+      "url": "http://http2.mlstatic.com/D_739484-MLA48023764865_102021-O.jpg",
+      "secure_url": "https://http2.mlstatic.com/D_739484-MLA48023764865_102021-O.jpg",
+      "size": "500x500",
+      "max_size": "800x800",
+      "quality": ""
+    }
+  ],
+  "video_id": null,
+  "descriptions": [],
+  "accepts_mercadopago": true,
+  "non_mercado_pago_payment_methods": [],
+  "shipping": {
+    "mode": "me2",
+    "methods": [],
+    "tags": [
+      "self_service_out"
+    ],
+    "dimensions": null,
+    "local_pick_up": false,
+    "free_shipping": false,
+    "logistic_type": "fulfillment",
+    "store_pick_up": false
+  },
+  "international_delivery_mode": "none",
+  "seller_address": {
+    "city": {
+      "id": "TUxBQlZJTDE2MDBa",
+      "name": "Villa Pueyrredón"
+    },
+    "state": {
+      "id": "AR-C",
+      "name": "Capital Federal"
+    },
+    "country": {
+      "id": "AR",
+      "name": "Argentina"
+    },
+    "search_location": {
+      "neighborhood": {
+        "id": "TUxBQlZJTDE2MDBa",
+        "name": "Villa Pueyrredón"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGZlZG1sYQ",
+        "name": "Capital Federal"
+      },
+      "state": {
+        "id": "TUxBUENBUGw3M2E1",
+        "name": "Capital Federal"
+      }
+    },
+    "id": 1037378106
+  },
+  "seller_contact": null,
+  "location": {},
+  "coverage_areas": [],
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "4190035",
+      "value_name": "MAS Accesorios",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "4190035",
+          "name": "MAS Accesorios",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "HEIGHT",
+      "name": "Altura",
+      "value_id": null,
+      "value_name": "6 cm",
+      "value_struct": {
+        "number": 6,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "6 cm",
+          "struct": {
+            "number": 6,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "IS_IMPERMEABLE",
+      "name": "Es impermeable",
+      "value_id": "242085",
+      "value_name": "Sí",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "242085",
+          "name": "Sí",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "LENGTH",
+      "name": "Largo",
+      "value_id": null,
+      "value_name": "20 cm",
+      "value_struct": {
+        "number": 20,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "20 cm",
+          "struct": {
+            "number": 20,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MATERIAL",
+      "name": "Material",
+      "value_id": "466794",
+      "value_name": "Poliéster",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "466794",
+          "name": "Poliéster",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": null,
+      "value_name": "Bolso Bajo Asiento",
+      "value_struct": null,
+      "values": [
+        {
+          "id": null,
+          "name": "Bolso Bajo Asiento",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "PRODUCT_FEATURES",
+      "name": "Características del producto",
+      "value_id": "8847339",
+      "value_name": "Sin vencimiento",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "8847339",
+          "name": "Sin vencimiento",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "SHIPMENT_PACKING",
+      "name": "Embalaje del envío",
+      "value_id": "7435891",
+      "value_name": "Bolsa",
+      "value_struct": null,
+      "values": [
+        {
+          "id": "7435891",
+          "name": "Bolsa",
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "VOLUME_CAPACITY",
+      "name": "Capacidad en volumen",
+      "value_id": "-1",
+      "value_name": null,
+      "value_struct": null,
+      "values": [
+        {
+          "id": "-1",
+          "name": null,
+          "struct": null
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WEIGHT",
+      "name": "Peso",
+      "value_id": "1087",
+      "value_name": "120 g",
+      "value_struct": {
+        "number": 120,
+        "unit": "g"
+      },
+      "values": [
+        {
+          "id": "1087",
+          "name": "120 g",
+          "struct": {
+            "number": 120,
+            "unit": "g"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "WIDTH",
+      "name": "Ancho",
+      "value_id": null,
+      "value_name": "8 cm",
+      "value_struct": {
+        "number": 8,
+        "unit": "cm"
+      },
+      "values": [
+        {
+          "id": null,
+          "name": "8 cm",
+          "struct": {
+            "number": 8,
+            "unit": "cm"
+          }
+        }
+      ],
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warnings": [],
+  "listing_source": "",
+  "variations": [
+    {
+      "id": 173843396682,
+      "price": 2120.56,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "Colors",
+          "value_id": null,
+          "value_name": "Rojo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Rojo",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 150,
+      "sale_terms": [],
+      "picture_ids": [
+        "938251-MLA48023766869_102021",
+        "853901-MLA48023772820_102021",
+        "937281-MLA48023783726_102021",
+        "872185-MLA48023804585_102021",
+        "636294-MLA48023800694_102021",
+        "626162-MLA48023807609_102021",
+        "886568-MLA48023773799_102021",
+        "625811-MLA48023774767_102021",
+        "952464-MLA48023772821_102021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173843396681,
+      "price": 2120.56,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "Colors",
+          "value_id": null,
+          "value_name": "Negro",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Negro",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 0,
+      "sold_quantity": 100,
+      "sale_terms": [],
+      "picture_ids": [
+        "643502-MLA48023821491_102021",
+        "948502-MLA48023817525_102021",
+        "874999-MLA48023764817_102021",
+        "798491-MLA48023821492_102021",
+        "955254-MLA48023807584_102021",
+        "620660-MLA48023787675_102021",
+        "608852-MLA48023779771_102021",
+        "848384-MLA48023783702_102021"
+      ],
+      "catalog_product_id": null
+    },
+    {
+      "id": 173843396683,
+      "price": 2120.56,
+      "attribute_combinations": [
+        {
+          "id": null,
+          "name": "Colors",
+          "value_id": null,
+          "value_name": "Azul",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Azul",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "available_quantity": 1,
+      "sold_quantity": 100,
+      "sale_terms": [],
+      "picture_ids": [
+        "923322-MLA48023800705_102021",
+        "835314-MLA48023772848_102021",
+        "976379-MLA48023773822_102021",
+        "742300-MLA48023803594_102021",
+        "890999-MLA48023782778_102021",
+        "890633-MLA48023817572_102021",
+        "908497-MLA48023779820_102021",
+        "712401-MLA48023822489_102021",
+        "739484-MLA48023764865_102021"
+      ],
+      "catalog_product_id": null
+    }
+  ],
+  "status": "active",
+  "sub_status": [],
+  "tags": [
+    "good_quality_picture",
+    "good_quality_thumbnail",
+    "loyalty_discount_eligible",
+    "immediate_payment",
+    "cart_eligible"
+  ],
+  "warranty": "Garantía de fábrica: 2 meses",
+  "catalog_product_id": null,
+  "domain_id": "MLA-BICYCLE_BAGS",
+  "parent_item_id": null,
+  "differential_pricing": null,
+  "deal_ids": [],
+  "automatic_relist": false,
+  "date_created": "2021-08-17T19:12:25.000Z",
+  "last_updated": "2022-07-21T15:51:46.000Z",
+  "health": 0.75,
+  "catalog_listing": false,
+  "channels": [
+    "marketplace"
+  ]
+}
+}

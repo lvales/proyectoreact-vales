@@ -1,0 +1,1735 @@
+{
+
+  "results": [
+    {
+      "id": "MLA853237993",
+      "site_id": "MLA",
+      "title": "Luz Bicicleta Trasera Solar Recargable Doble Led Destellador",
+      "seller": {
+        "id": 436122206,
+        "permalink": "http://perfil.mercadolibre.com.ar/LOSKOVASSRL",
+        "registration_date": "2019-05-15T11:35:22.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0038,
+              "value": 90
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0082,
+              "value": 195
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0036,
+              "value": 82
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 22365
+            }
+          },
+          "transactions": {
+            "canceled": 8965,
+            "period": "historic",
+            "total": 164397,
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.03,
+              "positive": 0.94
+            },
+            "completed": 155432
+          }
+        }
+      },
+      "price": 1437.44,
+      "prices": {
+        "id": "MLA853237993",
+        "prices": [
+          {
+            "id": "45",
+            "type": "standard",
+            "amount": 1437.44,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "last_updated": "2022-07-21T15:50:40Z",
+            "conditions": {
+              "context_restrictions": [],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {}
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [],
+        "reference_prices": [
+          {
+            "id": "40",
+            "type": "min_standard",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 549,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-05-27T04:33:01Z"
+          },
+          {
+            "id": "41",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2022-05-27T04:33:01Z",
+              "end_time": "2022-06-03T04:33:01Z",
+              "eligible": true
+            },
+            "amount": 988.9,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-05-27T04:33:01Z"
+          }
+        ],
+        "purchase_discounts": []
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-04-29T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-853237993-luz-bicicleta-trasera-solar-recargable-doble-led-destellador-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_607508-MLA41635220125_052020-I.jpg",
+      "thumbnail_id": "607508-MLA41635220125_052020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 203.84,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDE2MDBa",
+        "city_name": "Villa Pueyrredón"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "self_service_in"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDE2MDBa",
+          "name": "Villa Pueyrredón"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "values": [
+            {
+              "id": "4190035",
+              "name": "MAS Accesorios",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 3045741222775799,
+          "value_id": "4190035",
+          "value_name": "MAS Accesorios",
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "name": "Marca"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "attribute_group_name": "Otros",
+          "source": 3045741222775799
+        },
+        {
+          "values": [
+            {
+              "name": "Destellador Trasero",
+              "struct": null,
+              "source": 3045741222775799,
+              "id": null
+            }
+          ],
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "attribute_group_name": "Otros",
+          "source": 3045741222775799,
+          "value_name": "Destellador Trasero",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "attribute_group_name": "Otros",
+          "source": 4333789534002961,
+          "id": "PACKAGE_LENGTH",
+          "value_id": null,
+          "value_name": "13 cm",
+          "value_struct": {
+            "number": 13,
+            "unit": "cm"
+          },
+          "attribute_group_id": "OTHERS",
+          "name": "Largo del paquete",
+          "values": [
+            {
+              "id": null,
+              "name": "13 cm",
+              "struct": {
+                "number": 13,
+                "unit": "cm"
+              },
+              "source": 4333789534002961
+            }
+          ]
+        },
+        {
+          "name": "Peso del paquete",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 4333789534002961,
+          "id": "PACKAGE_WEIGHT",
+          "value_id": null,
+          "value_name": "40 g",
+          "value_struct": {
+            "number": 40,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "struct": {
+                "number": 40,
+                "unit": "g"
+              },
+              "source": 4333789534002961,
+              "id": null,
+              "name": "40 g"
+            }
+          ]
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA18091",
+      "official_store_id": null,
+      "domain_id": "MLA-BICYCLE_LIGHTS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 1,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "melicoin": null,
+      "discounts": null
+    },
+    {
+      "id": "MLA811924989",
+      "site_id": "MLA",
+      "title": "Inflador De Pie Con Manómetro Bulit Serie 600",
+      "seller": {
+        "id": 422682314,
+        "permalink": "http://perfil.mercadolibre.com.ar/CRAFTERSARG",
+        "registration_date": "2019-04-03T09:42:16.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "large_seller",
+          "eshop",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "eshop": {
+          "seller": 422682314,
+          "eshop_rubro": null,
+          "eshop_id": 383806,
+          "nick_name": "CRAFTERSARG",
+          "site_id": "MLA",
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/422682314v1665fe.png",
+          "eshop_status_id": 2,
+          "eshop_experience": 0,
+          "eshop_locations": []
+        },
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0156,
+              "value": 232
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0054,
+              "value": 80
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0327,
+              "value": 456
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 13854
+            }
+          },
+          "transactions": {
+            "canceled": 3027,
+            "period": "historic",
+            "total": 64059,
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.01,
+              "positive": 0.96
+            },
+            "completed": 61032
+          }
+        }
+      },
+      "price": 6299,
+      "prices": {
+        "id": "MLA811924989",
+        "prices": [
+          {
+            "id": "176",
+            "type": "standard",
+            "amount": 6299,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "last_updated": "2022-07-03T22:20:56Z",
+            "conditions": {
+              "context_restrictions": [],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {}
+          },
+          {
+            "id": "181",
+            "type": "promotion",
+            "amount": 5984.05,
+            "regular_amount": 6299,
+            "currency_id": "ARS",
+            "last_updated": "2022-07-20T18:47:24Z",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2022-07-27T03:00:00Z",
+              "end_time": "2022-07-28T02:59:59Z",
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+              "promotion_id": "10664097-MLA811924989",
+              "promotion_type": "deal_of_the_day"
+            }
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [],
+        "reference_prices": [
+          {
+            "id": "177",
+            "type": "min_standard",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 3899,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-07-04T04:12:34Z"
+          },
+          {
+            "id": "178",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2022-07-04T04:12:34Z",
+              "end_time": "2022-07-11T04:12:34Z",
+              "eligible": true
+            },
+            "amount": 5327.6,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-07-04T04:12:34Z"
+          }
+        ],
+        "purchase_discounts": []
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-11-27T18:20:16.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-811924989-inflador-de-pie-con-manometro-bulit-serie-600-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_647661-MLA32006879899_082019-I.jpg",
+      "thumbnail_id": "647661-MLA32006879899_082019",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 893.25,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ1ZJQ2E3MTQz",
+        "city_name": "Vicente López"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "MLA-chg-threshold-feb-22",
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ1ZJQ2E3MTQz",
+          "name": "Vicente López"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_name": "Bulit",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "2511145",
+          "values": [
+            {
+              "id": "2511145",
+              "name": "Bulit",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724
+        },
+        {
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "id": "ITEM_CONDITION",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724,
+              "id": "2230284"
+            }
+          ]
+        },
+        {
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "id": "MODEL",
+          "value_name": "Inflador de Pie con Manómetro Serie 600",
+          "values": [
+            {
+              "name": "Inflador de Pie con Manómetro Serie 600",
+              "struct": null,
+              "source": 6808261514773724,
+              "id": null
+            }
+          ],
+          "name": "Modelo",
+          "value_id": null
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA371423",
+      "official_store_id": 630,
+      "domain_id": "MLA-MANUAL_AIR_PUMPS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 2,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "melicoin": null,
+      "discounts": null
+    },
+    {
+      "id": "MLA927890016",
+      "site_id": "MLA",
+      "title": "Espejo Retrovisor Bicicleta Brazo Flexible Giratorio 360",
+      "seller": {
+        "id": 436122206,
+        "permalink": "http://perfil.mercadolibre.com.ar/LOSKOVASSRL",
+        "registration_date": "2019-05-15T11:35:22.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0038,
+              "value": 90
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0082,
+              "value": 195
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0036,
+              "value": 82
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 22365
+            }
+          },
+          "transactions": {
+            "canceled": 8965,
+            "period": "historic",
+            "total": 164397,
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.03,
+              "positive": 0.94
+            },
+            "completed": 155432
+          }
+        }
+      },
+      "price": 2726.44,
+      "prices": {
+        "id": "MLA927890016",
+        "prices": [
+          {
+            "id": "41",
+            "type": "standard",
+            "amount": 2726.44,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "last_updated": "2022-07-21T15:50:42Z",
+            "conditions": {
+              "context_restrictions": [],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {}
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [],
+        "reference_prices": [
+          {
+            "id": "35",
+            "type": "min_standard",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 799,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-05-13T04:19:56Z"
+          },
+          {
+            "id": "36",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2022-05-13T04:19:56Z",
+              "end_time": "2022-05-20T04:19:56Z",
+              "eligible": true
+            },
+            "amount": 1208.9,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-05-13T04:19:56Z"
+          }
+        ],
+        "purchase_discounts": []
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-06-26T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-927890016-espejo-retrovisor-bicicleta-brazo-flexible-giratorio-360-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_751021-MLA46582720705_072021-I.jpg",
+      "thumbnail_id": "751021-MLA46582720705_072021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 386.63,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDE2MDBa",
+        "city_name": "Villa Pueyrredón"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "self_service_in"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDE2MDBa",
+          "name": "Villa Pueyrredón"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_name": "MAS Accesorios",
+          "values": [
+            {
+              "id": "4190035",
+              "name": "MAS Accesorios",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "4190035",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724
+        },
+        {
+          "source": 6808261514773724,
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Espejo Flexible Reforzado",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "value_id": null,
+          "value_name": "Espejo Flexible Reforzado",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "MODEL",
+          "name": "Modelo"
+        },
+        {
+          "attribute_group_id": "OTHERS",
+          "id": "PACKAGE_LENGTH",
+          "name": "Largo del paquete",
+          "value_id": null,
+          "value_struct": {
+            "number": 38,
+            "unit": "cm"
+          },
+          "values": [
+            {
+              "struct": {
+                "number": 38,
+                "unit": "cm"
+              },
+              "source": 4333789534002961,
+              "id": null,
+              "name": "38 cm"
+            }
+          ],
+          "value_name": "38 cm",
+          "attribute_group_name": "Otros",
+          "source": 4333789534002961
+        },
+        {
+          "name": "Peso del paquete",
+          "value_name": "120 g",
+          "values": [
+            {
+              "id": null,
+              "name": "120 g",
+              "struct": {
+                "number": 120,
+                "unit": "g"
+              },
+              "source": 4333789534002961
+            }
+          ],
+          "source": 4333789534002961,
+          "id": "PACKAGE_WEIGHT",
+          "value_id": null,
+          "value_struct": {
+            "number": 120,
+            "unit": "g"
+          },
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "UNITS_PER_PACKAGE",
+          "name": "Unidades por envase",
+          "value_id": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "value_name": "1",
+          "value_struct": null,
+          "values": [
+            {
+              "name": "1",
+              "struct": null,
+              "source": 6808261514773724,
+              "id": null
+            }
+          ]
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA371427",
+      "official_store_id": null,
+      "domain_id": "MLA-BICYCLE_MIRRORS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 3,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "melicoin": null,
+      "discounts": null
+    },
+    {
+      "id": "MLA1123626473",
+      "site_id": "MLA",
+      "title": "Bolso Bajo Asiento Camara Accesorios Nitro Bikes Tour",
+      "seller": {
+        "id": 31187828,
+        "permalink": "http://perfil.mercadolibre.com.ar/NITROBIKES+SRL",
+        "registration_date": "2010-07-23T16:57:42.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "credits_priority_4",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0075,
+              "value": 38
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0045,
+              "value": 23
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0082,
+              "value": 40
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 4781
+            }
+          },
+          "transactions": {
+            "canceled": 1004,
+            "period": "historic",
+            "total": 17086,
+            "ratings": {
+              "negative": 0.01,
+              "neutral": 0.01,
+              "positive": 0.98
+            },
+            "completed": 16082
+          }
+        }
+      },
+      "price": 1056,
+      "prices": {
+        "id": "MLA1123626473",
+        "prices": [
+          {
+            "id": "1",
+            "type": "standard",
+            "amount": 1056,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "last_updated": "2022-02-15T15:34:33Z",
+            "conditions": {
+              "context_restrictions": [],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {}
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [],
+        "reference_prices": [
+          {
+            "id": "2",
+            "type": "min_standard",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1056,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-02-22T14:15:42Z"
+          }
+        ],
+        "purchase_discounts": []
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 5,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2042-02-10T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-1123626473-bolso-bajo-asiento-camara-accesorios-nitro-bikes-tour-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_985325-MLA49117715425_022022-I.jpg",
+      "thumbnail_id": "985325-MLA49117715425_022022",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 149.75,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ01PUmI1NTBj",
+        "city_name": "Morón"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ01PUmI1NTBj",
+          "name": "Morón"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "243232",
+          "value_name": "Nitro",
+          "values": [
+            {
+              "id": "243232",
+              "name": "Nitro",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "source": 2860837171021627
+        },
+        {
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_name": "Otros",
+          "source": 2860837171021627,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "name": "Largo",
+          "value_struct": {
+            "number": 15,
+            "unit": "cm"
+          },
+          "values": [
+            {
+              "name": "15 cm",
+              "struct": {
+                "number": 15,
+                "unit": "cm"
+              },
+              "source": 2860837171021627,
+              "id": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 2860837171021627,
+          "id": "LENGTH",
+          "value_id": null,
+          "value_name": "15 cm"
+        },
+        {
+          "id": "MODEL",
+          "value_id": null,
+          "value_struct": null,
+          "values": [
+            {
+              "source": 2860837171021627,
+              "id": null,
+              "name": "TOUR",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "name": "Modelo",
+          "value_name": "TOUR",
+          "source": 2860837171021627
+        },
+        {
+          "values": [
+            {
+              "id": "2767",
+              "name": "80 g",
+              "struct": {
+                "unit": "g",
+                "number": 80
+              },
+              "source": 1183438784296846
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "2767",
+          "value_name": "80 g",
+          "value_struct": {
+            "number": 80,
+            "unit": "g"
+          },
+          "source": 1183438784296846
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA371429",
+      "official_store_id": null,
+      "domain_id": "MLA-BICYCLE_BAGS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_thumbnail",
+        "good_quality_picture",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 4,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "melicoin": null,
+      "discounts": null
+    },
+    {
+      "id": "MLA897822277",
+      "site_id": "MLA",
+      "title": "Inflador De Pie ,bici, Moto, Auto, Infla Bles, Pileta Pelota",
+      "seller": {
+        "id": 16390530,
+        "permalink": "http://perfil.mercadolibre.com.ar/AUTO_TUNING",
+        "registration_date": "2003-01-29T00:00:00.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "credits_priority_4",
+          "eshop",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "eshop": {
+          "seller": 16390530,
+          "eshop_rubro": null,
+          "eshop_id": 14269,
+          "nick_name": "AUTO_TUNING",
+          "site_id": "MLA",
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/16390530v1df09f.png",
+          "eshop_status_id": 1,
+          "eshop_experience": 0,
+          "eshop_locations": []
+        },
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0034,
+              "value": 10
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0137,
+              "value": 40
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0407,
+              "value": 107
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 2796
+            }
+          },
+          "transactions": {
+            "canceled": 783,
+            "period": "historic",
+            "total": 15006,
+            "ratings": {
+              "negative": 0.02,
+              "neutral": 0.01,
+              "positive": 0.97
+            },
+            "completed": 14223
+          }
+        }
+      },
+      "price": 1810,
+      "prices": {
+        "id": "MLA897822277",
+        "prices": [
+          {
+            "id": "102",
+            "type": "standard",
+            "amount": 1810,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "last_updated": "2022-07-06T19:23:01Z",
+            "conditions": {
+              "context_restrictions": [],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {}
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [],
+        "reference_prices": [
+          {
+            "id": "100",
+            "type": "min_standard",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1150,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-07-02T04:13:15Z"
+          },
+          {
+            "id": "101",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2022-07-02T04:13:15Z",
+              "end_time": "2022-07-09T04:13:15Z",
+              "eligible": true
+            },
+            "amount": 1100,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-07-02T04:13:15Z"
+          }
+        ],
+        "purchase_discounts": []
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-11-13T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-897822277-inflador-de-pie-bici-moto-auto-infla-bles-pileta-pelota-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_706548-MLA44116273858_112020-I.jpg",
+      "thumbnail_id": "706548-MLA44116273858_112020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 256.67,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Lomas Del Mirador"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Lomas Del Mirador"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "value_id": "5149399",
+          "value_name": "Iael",
+          "values": [
+            {
+              "source": 377188858949192,
+              "id": "5149399",
+              "name": "Iael",
+              "struct": null
+            }
+          ],
+          "source": 377188858949192,
+          "name": "Marca",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 3045741222775799,
+          "value_id": "2230284",
+          "value_name": "Nuevo"
+        },
+        {
+          "value_id": null,
+          "value_struct": null,
+          "source": 3045741222775799,
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "Pie",
+          "values": [
+            {
+              "struct": null,
+              "source": 3045741222775799,
+              "id": null,
+              "name": "Pie"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA371423",
+      "official_store_id": null,
+      "domain_id": "MLA-MANUAL_AIR_PUMPS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "brand_verified",
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 5,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "melicoin": null,
+      "discounts": null
+    },
+    {
+      "id": "MLA934659032",
+      "site_id": "MLA",
+      "title": "Estuche Para Bicicleta Bolso Bajo Asiento Velcro Impermeable",
+      "seller": {
+        "id": 436122206,
+        "permalink": "http://perfil.mercadolibre.com.ar/LOSKOVASSRL",
+        "registration_date": "2019-05-15T11:35:22.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "power_seller_status": "platinum",
+          "level_id": "5_green",
+          "metrics": {
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0038,
+              "value": 90
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0082,
+              "value": 195
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0036,
+              "value": 82
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 22365
+            }
+          },
+          "transactions": {
+            "canceled": 8965,
+            "period": "historic",
+            "total": 164397,
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.03,
+              "positive": 0.94
+            },
+            "completed": 155432
+          }
+        }
+      },
+      "price": 2120.56,
+      "prices": {
+        "id": "MLA934659032",
+        "prices": [
+          {
+            "id": "38",
+            "type": "standard",
+            "amount": 2120.56,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "last_updated": "2022-07-21T15:50:40Z",
+            "conditions": {
+              "context_restrictions": [],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {}
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [],
+        "reference_prices": [
+          {
+            "id": "32",
+            "type": "min_standard",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 799,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-05-07T04:14:01Z"
+          },
+          {
+            "id": "33",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+                "channel_marketplace"
+              ],
+              "start_time": "2022-05-07T04:14:01Z",
+              "end_time": "2022-05-14T04:14:01Z",
+              "eligible": true
+            },
+            "amount": 999,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [],
+            "last_updated": "2022-05-07T04:14:01Z"
+          }
+        ],
+        "purchase_discounts": []
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-08-12T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-934659032-estuche-para-bicicleta-bolso-bajo-asiento-velcro-impermeable-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_938251-MLA48023766869_102021-I.jpg",
+      "thumbnail_id": "938251-MLA48023766869_102021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 300.71,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDE2MDBa",
+        "city_name": "Villa Pueyrredón"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "self_service_out"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDE2MDBa",
+          "name": "Villa Pueyrredón"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_name": "MAS Accesorios",
+          "value_struct": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 6808261514773724,
+              "id": "4190035",
+              "name": "MAS Accesorios"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 6808261514773724,
+          "id": "BRAND",
+          "value_id": "4190035",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724,
+              "id": "2230284"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null
+        },
+        {
+          "attribute_group_name": "Otros",
+          "values": [
+            {
+              "id": null,
+              "name": "20 cm",
+              "struct": {
+                "number": 20,
+                "unit": "cm"
+              },
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 6808261514773724,
+          "id": "LENGTH",
+          "name": "Largo",
+          "value_id": null,
+          "value_name": "20 cm",
+          "value_struct": {
+            "number": 20,
+            "unit": "cm"
+          }
+        },
+        {
+          "id": "MODEL",
+          "value_id": null,
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "name": "Modelo",
+          "value_name": "Bolso Bajo Asiento",
+          "values": [
+            {
+              "name": "Bolso Bajo Asiento",
+              "struct": null,
+              "source": 6808261514773724,
+              "id": null
+            }
+          ]
+        },
+        {
+          "values": [
+            {
+              "id": "1087",
+              "name": "120 g",
+              "struct": {
+                "number": 120,
+                "unit": "g"
+              },
+              "source": 1183438784296846
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 1183438784296846,
+          "value_name": "120 g",
+          "value_struct": {
+            "number": 120,
+            "unit": "g"
+          },
+          "value_id": "1087",
+          "attribute_group_id": "OTHERS",
+          "id": "WEIGHT",
+          "name": "Peso"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA371429",
+      "official_store_id": null,
+      "domain_id": "MLA-BICYCLE_BAGS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 6,
+      "use_thumbnail_id": true,
+      "offer_score": null,
+      "offer_share": null,
+      "match_score": null,
+      "winner_item_id": null,
+      "melicoin": null,
+      "discounts": null
+    }
+  ]
+}
